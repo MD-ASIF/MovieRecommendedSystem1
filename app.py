@@ -83,10 +83,7 @@ def recommend():
     movie = request.args.get('movie')
     r = rcmd(movie)
     movie = movie.upper()
-    if type(r)==type('string'):
-        return render_template('recommend.html',movie=movie,r=r,t='s')
-    else:
-        return render_template('recommend.html',movie=movie,r=r,t='l')
+    return render_template('recommend.html',movie=movie)
 if __name__ == '__main__':
     from werkzeug.serving import run_simple
     run_simple('localhost', 9000, app)
