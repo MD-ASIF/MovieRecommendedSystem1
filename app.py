@@ -78,15 +78,17 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return render_template('home.html')
-@app.route("/recommend")
+@app.route("/recommend",methods=['GET','POST'])
 def recommend():
-    movie = request.args.get('movie')
-    r = rcmd(movie)
-    movie = movie.upper()
+    if request.method == 'POST':
+        movie = request.args.get('movie')
+        r = rcmd(movie)
+        movie = movie.upper()
     return render_template('recommend.html',movie=movie)
 if __name__ == '__main__':
     from werkzeug.serving import run_simple
-    run_simple('localhost', 9000, app)
+    run_simple('localhost', 9000,app)
+    
     
 
 
