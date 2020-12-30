@@ -75,16 +75,20 @@ def rcmd(m):
 
 
 app = Flask(__name__)
+
 @app.route("/")
 def home():
     return render_template('home.html')
-@app.route("/recommend",methods=['GET','POST'])
+
+@app.route("/recommend")
 def recommend():
-    if request.method == 'POST':
-        movie = request.args.get('movie')
-        r = rcmd(movie)
-        movie = movie.upper()
-    return render_template('recommend.html',movie=movie)
+    movie = request.args.get('movie')
+    r = rcmd(movie)
+    movie = movie.upper()
+    if type(r)==type('string'):
+        return render_template('recommend.html',movie=movie,r=r,t='s')
+    else:
+        return render_template('recommend.html',movie=movie,r=r,t='l')
 if __name__ == '__main__':
     from werkzeug.serving import run_simple
     run_simple('localhost', 9000,app)
