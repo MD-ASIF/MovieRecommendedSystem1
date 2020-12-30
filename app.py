@@ -78,7 +78,7 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return render_template('home.html')
-@app.route("/recommend")
+@app.route("/recommend",methods=['POST'])
 def recommend():
     movie = request.args.get('movie')
     r = rcmd(movie)
