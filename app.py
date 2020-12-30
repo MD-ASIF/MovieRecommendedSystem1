@@ -89,12 +89,9 @@ def recommend():
         return render_template('recommend.html',movie=movie,r=r,t='l')
 if __name__ == '__main__':
     from werkzeug.serving import run_simple
-    run_simple('localhost', 9000,app)
+    run_simple('localhost', 9000, app)
     
 
 
-# In[ ]:
 
-
-print("hi")
 
