@@ -80,9 +80,10 @@ def home():
     return render_template('home.html')
 @app.route("/recommend",methods=['POST'])
 def recommend():
-    movie = request.args.get('movie')
-    r = rcmd(movie)
-    movie = movie.upper()
+    if request.method == 'POST':
+        movie = request.args.get('movie')
+        r = rcmd(movie)
+        movie = movie.upper()
     return render_template('recommend.html',movie=movie)
 if __name__ == '__main__':
     from werkzeug.serving import run_simple
