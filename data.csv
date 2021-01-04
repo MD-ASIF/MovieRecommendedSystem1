@@ -1,0 +1,5001 @@
+movieId,title,genres
+1,toy story,adventure animation children comedy fantasy
+2,jumanji,adventure children fantasy
+3,grumpier old men,comedy romance
+4,waiting to exhale,comedy drama romance
+5,father of the bride part ii,comedy
+6,heat,action crime thriller
+7,sabrina,comedy romance
+8,tom and huck,adventure children
+9,sudden death,action
+10,goldeneye,action adventure thriller
+11,american president the,comedy drama romance
+12,dracula dead and loving it,comedy horror
+13,balto,adventure animation children
+14,nixon,drama
+15,cutthroat island,action adventure romance
+16,casino,crime drama
+17,sense and sensibility,drama romance
+18,four rooms,comedy
+19,ace ventura when nature calls,comedy
+20,money train,action comedy crime drama thriller
+21,get shorty,comedy crime thriller
+22,copycat,crime drama horror mystery thriller
+23,assassins,action crime thriller
+24,powder,drama sci fi
+25,leaving las vegas,drama romance
+26,othello,drama
+27,now and then,children drama
+28,persuasion,drama romance
+29,city of lost children the,adventure drama fantasy mystery sci fi
+30,shanghai triad,crime drama
+31,dangerous minds,drama
+32,twelve monkeys,mystery sci fi thriller
+33,wings of courage,adventure romance imax
+34,babe,children drama
+35,carrington,drama romance
+36,dead man walking,crime drama
+39,clueless,comedy romance
+40,cry the beloved country,drama
+41,richard iii,drama war
+42,dead presidents,action crime drama
+43,restoration,drama
+44,mortal kombat,action adventure fantasy
+45,to die for,comedy drama thriller
+46,how to make an american quilt,drama romance
+47,seven,mystery thriller
+48,pocahontas,animation children drama musical romance
+49,when night is falling,drama romance
+50,usual suspects the,crime mystery thriller
+52,mighty aphrodite,comedy drama romance
+53,lamerica,adventure drama
+54,big green the,children comedy
+55,georgia,drama
+57,home for the holidays,drama
+58,postman the,comedy drama romance
+59,confessional the,drama mystery
+60,indian in the cupboard the,adventure children fantasy
+61,eye for an eye,drama thriller
+62,mr holland s opus,drama
+63,don t be a menace to south central while drinking your juice in the hood,comedy crime
+64,two if by sea,comedy romance
+65,bio dome,comedy
+66,lawnmower man beyond cyberspace,action sci fi thriller
+68,french twist,comedy romance
+69,friday,comedy
+70,from dusk till dawn,action comedy horror thriller
+71,fair game,action
+72,kicking and screaming,comedy drama
+73,mis rables les,drama war
+74,bed of roses,drama romance
+75,big bully,comedy drama
+76,screamers,action sci fi thriller
+78,crossing guard the,action crime drama thriller
+79,juror the,drama thriller
+80,white balloon the,children drama
+81,things to do in denver when you re dead,crime drama romance
+82,antonia s line,comedy drama
+83,once upon a time when we were colored,drama romance
+84,last summer in the hamptons,comedy drama
+85,angels and insects,drama romance
+86,white squall,action adventure drama
+87,dunston checks in,children comedy
+88,black sheep,comedy
+89,nick of time,action thriller
+90,journey of august king the,drama
+92,mary reilly,drama horror thriller
+93,vampire in brooklyn,comedy horror romance
+94,beautiful girls,comedy drama romance
+95,broken arrow,action adventure thriller
+96,in the bleak midwinter,comedy drama
+97,hate,crime drama
+100,city hall,drama thriller
+101,bottle rocket,adventure comedy crime romance
+102,mr wrong,comedy
+103,unforgettable,mystery sci fi thriller
+104,happy gilmore,comedy
+105,bridges of madison county the,drama romance
+107,muppet treasure island,adventure children comedy musical
+108,catwalk,documentary
+110,braveheart,action drama war
+111,taxi driver,crime drama thriller
+112,rumble in the bronx,action adventure comedy crime
+113,before and after,drama mystery
+114,margaret s museum,drama
+115,happiness is in the field,comedy
+116,anne frank remembered,documentary
+117,young poisoner s handbook the,crime drama
+118,if lucy fell,comedy romance
+121,boys of st vincent the,drama
+122,boomerang,comedy romance
+123,chungking express,drama mystery romance
+124,star maker the,drama
+125,flirting with disaster,comedy
+126,neverending story iii the,adventure children fantasy
+129,pie in the sky,comedy romance
+131,frankie starlight,drama romance
+132,jade,thriller
+135,down periscope,comedy
+137,man of the year,documentary
+138,neon bible the,drama
+140,up close and personal,drama romance
+141,birdcage the,comedy
+144,brothers mcmullen the,comedy
+145,bad boys,action comedy crime drama thriller
+146,amazing panda adventure the,adventure children
+147,basketball diaries the,drama
+149,amateur,crime drama thriller
+150,apollo,adventure drama imax
+151,rob roy,action drama romance war
+152,addiction the,drama horror
+153,batman forever,action adventure comedy crime
+154,beauty of the day,drama
+155,beyond rangoon,adventure drama war
+156,blue in the face,comedy drama
+157,canadian bacon,comedy war
+158,casper,adventure children
+159,clockers,crime drama mystery
+160,congo,action adventure mystery sci fi
+161,crimson tide,drama thriller war
+162,crumb,documentary
+163,desperado,action romance western
+164,devil in a blue dress,crime film noir mystery thriller
+165,die hard with a vengeance,action crime thriller
+166,doom generation the,comedy crime drama
+168,first knight,action drama romance
+169,free willy the adventure home,adventure children drama
+170,hackers,action adventure crime thriller
+171,jeffrey,comedy drama
+172,johnny mnemonic,action sci fi thriller
+173,judge dredd,action crime sci fi
+174,jury duty,comedy
+175,kids,drama
+176,living in oblivion,comedy
+177,lord of illusions,horror
+178,love human remains,comedy drama
+179,mad love,drama romance
+180,mallrats,comedy romance
+181,mighty morphin power rangers the movie,action children
+182,moonlight and valentino,drama romance
+183,mute witness,comedy horror thriller
+184,nadja,drama
+185,net the,action crime thriller
+186,nine months,comedy romance
+187,party girl,comedy
+188,prophecy the,fantasy horror mystery
+190,safe,thriller
+191,scarlet letter the,drama romance
+193,showgirls,drama
+194,smoke,comedy drama
+195,something to talk about,comedy drama romance
+196,species,horror sci fi
+198,strange days,action crime drama mystery sci fi thriller
+199,umbrellas of cherbourg the,drama musical romance
+200,tie that binds the,thriller
+201,three wishes,drama fantasy
+202,total eclipse,drama romance
+203,to wong foo thanks for everything julie newmar,comedy
+204,under siege dark territory,action
+205,unstrung heroes,comedy drama
+206,unzipped,documentary
+207,walk in the clouds a,drama romance
+208,waterworld,action adventure sci fi
+209,white man s burden,drama
+210,wild bill,western
+211,browning version the,drama
+212,bushwhacked,adventure comedy crime mystery
+213,burnt by the sun,drama
+214,before the rain,drama war
+215,before sunrise,drama romance
+216,billy madison,comedy
+217,babysitter the,drama thriller
+218,boys on the side,comedy drama
+219,cure the,drama
+220,castle freak,horror
+222,circle of friends,drama romance
+223,clerks,comedy
+224,don juan demarco,comedy drama romance
+225,disclosure,drama thriller
+226,dream man,thriller
+227,drop zone,action thriller
+228,destiny turns on the radio,comedy
+229,death and the maiden,drama thriller
+230,dolores claiborne,drama thriller
+231,dumb dumber,adventure comedy
+232,eat drink man woman,comedy drama romance
+233,exotica,drama
+234,exit to eden,comedy
+235,ed wood,comedy drama
+236,french kiss,action comedy romance
+237,forget paris,comedy romance
+238,far from home the adventures of yellow dog,adventure children
+239,goofy movie a,animation children comedy romance
+240,hideaway,thriller
+241,fluke,children drama
+242,farinelli il castrato,drama musical
+243,gordy,children comedy fantasy
+245,the glass shield,crime drama
+246,hoop dreams,documentary
+247,heavenly creatures,crime drama
+248,houseguest,comedy
+249,immortal beloved,drama romance
+250,heavyweights,children comedy
+251,hunted the,action
+252,i q,comedy romance
+253,interview with the vampire the vampire chronicles,drama horror
+254,jefferson in paris,drama
+255,jerky boys the,comedy
+256,junior,comedy sci fi
+257,just cause,mystery thriller
+258,kid in king arthur s court a,adventure children comedy fantasy romance
+259,kiss of death,crime drama thriller
+260,star wars episode iv a new hope,action adventure sci fi
+261,little women,drama
+262,little princess a,children drama
+263,ladybird ladybird,drama
+265,like water for chocolate,drama fantasy romance
+266,legends of the fall,drama romance war western
+267,major payne,comedy
+268,little odessa,crime drama
+269,my crazy life,drama
+270,love affair,drama romance
+271,losing isaiah,drama
+272,madness of king george the,comedy drama
+273,mary shelley s frankenstein,drama horror sci fi
+274,man of the house,comedy
+275,mixed nuts,comedy
+276,milk money,comedy romance
+277,miracle on street,drama
+278,miami rhapsody,comedy
+279,my family,drama
+280,murder in the first,drama thriller
+281,nobody s fool,comedy drama romance
+282,nell,drama
+283,new jersey drive,crime drama
+288,natural born killers,action crime thriller
+289,only you,comedy romance
+290,once were warriors,crime drama
+291,poison ivy ii,drama thriller
+292,outbreak,action drama sci fi thriller
+293,l on the professional,action crime drama thriller
+294,perez family the,comedy romance
+296,pulp fiction,comedy crime drama thriller
+298,pushing hands,drama
+299,priest,drama
+300,quiz show,drama
+301,picture bride,drama romance
+302,queen margot,drama romance
+303,quick and the dead the,action thriller western
+304,roommates,comedy drama
+305,ready to wear,comedy
+306,three colors red,drama
+307,three colors blue,drama
+308,three colors white,comedy drama
+309,red firecracker green firecracker,drama
+312,stuart saves his family,comedy
+313,swan princess the,animation children
+314,secret of roan inish the,children drama fantasy mystery
+315,specialist the,action drama thriller
+316,stargate,action adventure sci fi
+317,santa clause the,comedy drama fantasy
+318,shawshank redemption the,crime drama
+319,shallow grave,comedy drama thriller
+320,suture,film noir thriller
+321,strawberry and chocolate,drama
+322,swimming with sharks,comedy drama
+324,sum of us the,comedy drama
+325,national lampoon s senior trip,comedy
+326,to live,drama
+327,tank girl,action comedy sci fi
+328,tales from the crypt presents demon knight,horror thriller
+329,star trek generations,adventure drama sci fi
+330,tales from the hood,action crime horror
+331,tom viv,drama
+332,village of the damned,horror sci fi
+333,tommy boy,comedy
+334,vanya on street,drama
+335,underneath,mystery thriller
+336,walking dead the,drama war
+337,what s eating gilbert grape,drama
+338,virtuosity,action sci fi thriller
+339,while you were sleeping,comedy romance
+340,war the,adventure drama war
+341,double happiness,drama
+342,muriel s wedding,comedy
+343,baby sitters club the,children
+344,ace ventura pet detective,comedy
+345,adventures of priscilla queen of the desert the,comedy drama
+346,backbeat,drama musical
+347,bitter moon,drama film noir romance
+348,bullets over broadway,comedy
+349,clear and present danger,action crime drama thriller
+350,client the,drama mystery thriller
+351,corrina corrina,comedy drama romance
+352,crooklyn,comedy drama
+353,crow the,action crime fantasy thriller
+354,cobb,drama
+355,flintstones the,children comedy fantasy
+356,forrest gump,comedy drama romance war
+357,four weddings and a funeral,comedy romance
+358,higher learning,drama
+360,i love trouble,action comedy
+361,it could happen to you,comedy drama romance
+362,jungle book the,adventure children romance
+363,wonderful horrible life of leni riefenstahl the,documentary
+364,lion king the,adventure animation children drama musical imax
+365,little buddha,drama
+366,wes craven s new nightmare,drama horror mystery thriller
+367,mask the,action comedy crime fantasy
+368,maverick,adventure comedy western
+369,mrs parker and the vicious circle,drama
+370,naked gun the final insult,action comedy
+371,paper the,comedy drama
+372,reality bites,comedy drama romance
+373,red rock west,thriller
+374,richie rich,children comedy
+375,safe passage,drama
+376,river wild the,action thriller
+377,speed,action romance thriller
+378,speechless,comedy romance
+379,timecop,action sci fi thriller
+380,true lies,action adventure comedy romance thriller
+381,when a man loves a woman,drama romance
+382,wolf,drama horror romance thriller
+383,wyatt earp,western
+384,bad company,action crime drama
+385,man of no importance a,drama
+386,s f w,drama
+387,low down dirty shame a,action comedy
+388,boys life,drama
+389,colonel chabert le,drama romance war
+390,faster pussycat kill kill,action crime drama
+391,jason s lyric,crime drama
+392,secret adventures of tom thumb the,adventure animation
+393,street fighter,action adventure fantasy
+396,fall time,drama
+404,brother minister the assassination of malcolm x,documentary
+405,highlander iii the sorcerer,action fantasy
+407,in the mouth of madness,horror thriller
+408,seconds,drama
+409,above the rim,crime drama
+410,addams family values,children comedy fantasy
+412,age of innocence the,drama
+413,airheads,comedy
+414,air up there the,comedy
+415,another stakeout,comedy thriller
+416,bad girls,western
+417,barcelona,comedy romance
+418,being human,drama
+419,beverly hillbillies the,comedy
+420,beverly hills cop iii,action comedy crime thriller
+421,black beauty,adventure children drama
+422,blink,thriller
+423,blown away,action thriller
+424,blue chips,drama
+425,blue sky,drama romance
+426,body snatchers,horror sci fi thriller
+427,boxing helena,drama mystery romance thriller
+428,bronx tale a,drama
+429,cabin boy,comedy
+430,calendar girl,comedy drama
+431,carlito s way,crime drama
+432,city slickers ii the legend of curly s gold,adventure comedy western
+433,clean slate,comedy
+434,cliffhanger,action adventure thriller
+435,coneheads,comedy sci fi
+436,color of night,drama thriller
+437,cops and robbersons,comedy
+438,cowboy way the,action comedy drama
+439,dangerous game,drama
+440,dave,comedy romance
+441,dazed and confused,comedy
+442,demolition man,action adventure sci fi
+443,endless summer the,adventure documentary
+444,even cowgirls get the blues,comedy romance
+445,fatal instinct,comedy
+446,farewell my concubine,drama romance
+447,favor the,comedy romance
+448,fearless,drama
+449,fear of a black hat,comedy
+450,with honors,comedy drama
+451,flesh and bone,drama mystery romance
+452,widows peak,drama
+453,for love or money,comedy romance
+454,firm the,drama thriller
+455,free willy,adventure children drama
+456,fresh,crime drama thriller
+457,fugitive the,thriller
+458,geronimo an american legend,drama western
+459,getaway the,action adventure crime drama romance thriller
+460,getting even with dad,comedy
+461,go fish,drama romance
+463,guilty as sin,crime drama thriller
+464,hard target,action adventure crime thriller
+465,heaven earth,action drama war
+466,hot shots part deux,action comedy war
+467,live nude girls,comedy
+468,englishman who went up a hill but came down a mountain the,comedy romance
+469,house of the spirits the,drama romance
+470,house party,comedy
+471,hudsucker proxy the,comedy
+472,i ll do anything,comedy drama
+473,in the army now,comedy war
+474,in the line of fire,action thriller
+475,in the name of the father,drama
+476,inkwell the,comedy drama
+477,what s love got to do with it,drama musical
+479,judgment night,action crime thriller
+480,jurassic park,action adventure sci fi thriller
+481,kalifornia,drama thriller
+482,killing zoe,crime drama thriller
+483,king of the hill,drama
+485,last action hero,action adventure comedy fantasy
+486,life with mikey,comedy
+487,lightning jack,comedy western
+488,m butterfly,drama romance
+489,made in america,comedy
+490,malice,thriller
+491,man without a face the,drama
+492,manhattan murder mystery,comedy mystery
+493,menace ii society,action crime drama
+494,executive decision,action adventure thriller
+495,in the realm of the senses,drama
+496,what happened was,comedy drama romance thriller
+497,much ado about nothing,comedy romance
+498,mr jones,drama romance
+499,mr wonderful,comedy romance
+500,mrs doubtfire,comedy drama
+501,naked,drama
+502,next karate kid the,action children romance
+504,no escape,action drama sci fi
+505,north,comedy
+506,orlando,drama fantasy romance
+507,perfect world a,crime drama thriller
+508,philadelphia,drama
+509,piano the,drama romance
+510,poetic justice,drama
+511,program the,action drama
+512,puppet masters the,horror sci fi
+513,radioland murders,comedy mystery romance
+514,ref the,comedy
+515,remains of the day the,drama romance
+516,renaissance man,comedy drama
+517,rising sun,action drama mystery
+518,road to wellville the,comedy
+519,robocop,action crime drama sci fi thriller
+520,robin hood men in tights,comedy
+521,romeo is bleeding,crime thriller
+522,romper stomper,action drama
+523,ruby in paradise,drama
+524,rudy,drama
+525,saint of fort washington the,drama
+526,savage nights,drama
+527,schindler s list,drama war
+528,scout the,comedy drama
+529,searching for bobby fischer,drama
+531,secret garden the,children drama
+532,serial mom,comedy crime horror
+533,shadow the,action adventure fantasy mystery
+534,shadowlands,drama romance
+535,short cuts,drama
+536,simple twist of fate a,drama
+537,sirens,drama
+538,six degrees of separation,drama
+539,sleepless in seattle,comedy drama romance
+540,sliver,thriller
+541,blade runner,action sci fi thriller
+542,son in law,comedy drama romance
+543,so i married an axe murderer,comedy romance thriller
+544,striking distance,action crime
+545,harem,drama
+546,super mario bros,action adventure children comedy fantasy sci fi
+547,surviving the game,action adventure thriller
+548,terminal velocity,action mystery thriller
+549,thirty two short films about glenn gould,drama musical
+550,threesome,comedy romance
+551,nightmare before christmas the,animation children fantasy musical
+552,three musketeers the,action adventure comedy romance
+553,tombstone,action drama western
+554,trial by jury,crime drama thriller
+555,true romance,crime thriller
+556,war room the,documentary
+558,pagemaster the,action adventure animation children fantasy
+560,beans of egypt maine the,drama
+562,welcome to the dollhouse,comedy drama
+563,germinal,drama romance
+565,cronos,drama horror
+566,naked in new york,comedy romance
+567,kika,comedy drama
+568,bhaji on the beach,comedy drama
+569,little big league,comedy drama
+570,slingshot the,comedy drama
+571,wedding gift the,drama romance
+573,ciao professore,drama
+574,spanking the monkey,comedy drama
+575,little rascals the,children comedy
+577,andre,adventure children drama
+580,princess caraboo,drama
+581,celluloid closet the,documentary
+583,dear diary,comedy drama
+585,brady bunch movie the,comedy
+586,home alone,children comedy
+587,ghost,comedy drama fantasy romance thriller
+588,aladdin,adventure animation children comedy musical
+589,terminator judgment day,action sci fi
+590,dances with wolves,adventure drama western
+592,batman,action crime thriller
+593,silence of the lambs the,crime horror thriller
+594,snow white and the seven dwarfs,animation children drama fantasy musical
+595,beauty and the beast,animation children fantasy musical romance imax
+596,pinocchio,animation children fantasy musical
+597,pretty woman,comedy romance
+599,wild bunch the,adventure western
+600,love and a,action comedy crime
+601,wooden man s bride the,drama
+602,great day in harlem a,documentary
+603,bye bye love,comedy
+605,one fine day,drama romance
+606,candyman farewell to the flesh,fantasy horror
+608,fargo,comedy crime drama thriller
+609,homeward bound ii lost in san francisco,adventure children
+610,heavy metal,action adventure animation horror sci fi
+611,hellraiser bloodline,action horror sci fi
+612,pallbearer the,comedy
+613,jane eyre,drama romance
+614,loaded,drama thriller
+615,bread and chocolate,comedy drama
+616,aristocats the,animation children
+617,flower of my secret the,comedy drama
+618,two much,comedy romance
+619,ed,comedy
+621,my favorite season,drama
+626,thin line between love and hate a,comedy
+627,last supper the,drama thriller
+628,primal fear,crime drama mystery thriller
+630,carried away,drama romance
+631,all dogs go to heaven,adventure animation children fantasy musical romance
+632,land and freedom,drama war
+633,denise calls up,comedy
+634,theodore rex,comedy
+635,family thing a,comedy drama
+637,sgt bilko,comedy
+638,jack and sarah,romance
+639,girl,comedy drama
+640,diabolique,drama thriller
+647,courage under fire,action crime drama war
+648,mission impossible,action adventure mystery thriller
+649,cold fever,comedy drama
+650,moll flanders,drama
+653,dragonheart,action adventure fantasy
+656,eddie,comedy
+659,purple noon,crime drama thriller
+660,august,drama
+661,james and the giant peach,adventure animation children fantasy musical
+662,fear,thriller
+663,kids in the hall brain candy,comedy
+664,faithful,comedy
+665,underground,comedy drama war
+667,bloodsport,action
+668,song of the little road,drama
+670,world of apu the,drama
+671,mystery science theater the movie,comedy sci fi
+673,space jam,adventure animation children comedy fantasy sci fi
+674,barbarella,adventure comedy sci fi
+678,some folks call it a sling blade,drama thriller
+679,run of the country the,drama
+680,alphaville,drama mystery romance sci fi thriller
+681,coup de torchon,crime
+685,it s my party,drama
+688,operation dumbo drop,action adventure comedy war
+690,promise the,drama romance
+691,mrs winterbourne,comedy romance
+692,solo,action sci fi thriller
+694,substitute the,action crime drama
+695,true crime,mystery thriller
+697,feeling minnesota,drama romance
+700,angus,comedy
+702,faces,drama
+703,boys,drama
+704,quest the,action adventure
+705,cosi,comedy
+706,sunset park,drama
+707,mulholland falls,crime drama thriller
+708,truth about cats dogs the,comedy romance
+709,oliver company,adventure animation children comedy musical
+710,celtic pride,comedy
+711,flipper,adventure children
+712,captives,crime drama romance thriller
+714,dead man,drama mystery western
+715,horseman on the roof the,drama romance
+716,switchblade sisters,crime
+718,visitors the,comedy fantasy sci fi
+719,multiplicity,comedy
+720,wallace gromit the best of aardman animation,adventure animation comedy
+722,haunted world of edward d wood jr the,documentary
+724,craft the,drama fantasy horror thriller
+725,great white hype the,comedy
+726,last dance,drama
+728,cold comfort farm,comedy
+731,heaven s prisoners,crime thriller
+732,original gangstas,crime
+733,rock the,action adventure thriller
+735,cemetery man,horror
+736,twister,action adventure romance thriller
+737,barb wire,action sci fi
+741,ghost in the shell,animation sci fi
+742,thinner,horror thriller
+743,spy hard,comedy
+745,wallace gromit a close shave,animation children comedy
+746,force of evil,film noir
+747,stupids the,comedy
+748,arrival the,action sci fi thriller
+750,dr strangelove or how i learned to stop worrying and love the bomb,comedy war
+753,month by the lake a,comedy drama romance
+754,gold diggers the secret of bear mountain,adventure children
+755,kim,children drama
+757,ashes of time,drama
+759,maya lin a strong clear vision,documentary
+760,stalingrad,drama war
+761,phantom the,action adventure
+762,striptease,comedy crime
+764,heavy,drama romance
+765,jack,comedy drama
+766,i shot andy warhol,drama
+767,grass harp the,comedy drama
+769,marlene dietrich shadow and light,documentary
+778,trainspotting,comedy crime drama
+779,til there was you,drama romance
+780,independence day,action adventure sci fi thriller
+781,stealing beauty,drama
+782,fan the,drama thriller
+783,hunchback of notre dame the,animation children drama musical romance
+784,cable guy the,comedy thriller
+785,kingpin,comedy
+786,eraser,action drama thriller
+788,nutty professor the,comedy fantasy romance sci fi
+798,daylight,action adventure drama thriller
+799,frighteners the,comedy horror thriller
+800,lone star,drama mystery western
+801,harriet the spy,children comedy
+802,phenomenon,drama romance
+803,walking and talking,comedy drama romance
+804,she s the one,comedy romance
+805,time to kill a,drama thriller
+806,american buffalo,crime drama
+807,rendezvous in paris,comedy romance
+808,alaska,adventure children
+809,fled,action adventure
+810,kazaam,children comedy fantasy
+813,larger than life,comedy
+818,very brady sequel a,comedy
+823,collector the,drama
+824,kaspar hauser,drama mystery
+827,convent the,drama
+828,adventures of pinocchio the,adventure children
+829,joe s apartment,comedy fantasy musical
+830,first wives club the,comedy
+831,stonewall,drama
+832,ransom,crime thriller
+833,high school high,comedy
+834,phat beach,comedy
+835,foxfire,drama
+836,chain reaction,action adventure thriller
+837,matilda,children comedy fantasy
+838,emma,comedy drama romance
+839,crow city of angels the,action thriller
+840,house arrest,children comedy
+841,eyes without a face,horror
+842,tales from the crypt presents bordello of blood,comedy horror
+844,story of xinghua the,drama
+846,flirt,drama
+848,spitfire grill the,drama
+849,escape from l a,action adventure sci fi thriller
+850,cyclo,crime drama
+851,basquiat,drama
+852,tin cup,comedy drama romance
+854,ballad of narayama the,drama
+858,godfather the,crime drama
+861,supercop,action comedy crime thriller
+862,manny lo,drama
+865,small faces,drama
+866,bound,crime drama romance thriller
+867,carpool,comedy crime
+868,death in brunswick,comedy
+869,kansas city,crime drama musical thriller
+870,gone fishin,comedy
+875,nothing to lose,action crime drama
+876,supercop,action comedy crime thriller
+879,relic the,horror thriller
+880,island of dr moreau the,sci fi thriller
+881,first kid,children comedy
+882,trigger effect the,drama thriller
+885,bogus,children drama fantasy
+886,bulletproof,action comedy crime
+888,land before time iii the time of the great giving,adventure animation children musical
+890,baton rouge,thriller
+891,halloween the curse of michael myers,horror thriller
+892,twelfth night,comedy drama romance
+893,mother night,drama
+896,wild reeds,drama
+897,for whom the bell tolls,adventure drama romance war
+898,philadelphia story the,comedy drama romance
+899,singin in the rain,comedy musical romance
+900,american in paris an,musical romance
+901,funny face,comedy musical
+902,breakfast at tiffany s,drama romance
+903,vertigo,drama mystery romance thriller
+904,rear window,mystery thriller
+905,it happened one night,comedy romance
+906,gaslight,drama thriller
+907,gay divorcee the,comedy musical romance
+908,north by northwest,action adventure mystery romance thriller
+909,apartment the,comedy drama romance
+910,some like it hot,comedy crime
+911,charade,comedy crime mystery romance thriller
+912,casablanca,drama romance
+913,maltese falcon the,film noir mystery
+914,my fair lady,comedy drama musical romance
+915,sabrina,comedy romance
+916,roman holiday,comedy drama romance
+917,little princess the,children drama
+918,meet me in st louis,musical
+919,wizard of oz the,adventure children fantasy musical
+920,gone with the wind,drama romance war
+921,my favorite year,comedy
+922,sunset blvd,drama film noir romance
+923,citizen kane,drama mystery
+924,a space odyssey,adventure drama sci fi
+926,all about eve,drama
+927,women the,comedy
+928,rebecca,drama mystery romance thriller
+929,foreign correspondent,drama film noir mystery thriller
+930,notorious,film noir romance thriller
+931,spellbound,mystery romance thriller
+932,affair to remember an,drama romance
+933,to catch a thief,crime mystery romance thriller
+934,father of the bride,comedy
+935,band wagon the,comedy musical
+936,ninotchka,comedy romance
+937,love in the afternoon,comedy romance
+938,gigi,musical
+939,reluctant debutante the,comedy drama
+940,adventures of robin hood the,action adventure romance
+941,mark of zorro the,adventure
+942,laura,crime film noir mystery
+943,ghost and mrs muir the,drama fantasy romance
+944,lost horizon,drama
+945,top hat,comedy musical romance
+946,to be or not to be,comedy drama war
+947,my man godfrey,comedy romance
+948,giant,drama romance western
+949,east of eden,drama
+950,thin man the,comedy crime
+951,his girl friday,comedy romance
+952,around the world in days,adventure comedy
+953,it s a wonderful life,drama fantasy romance
+954,mr smith goes to washington,drama
+955,bringing up baby,comedy romance
+956,penny serenade,drama romance
+957,scarlet letter the,drama
+958,lady of burlesque,comedy mystery
+959,of human bondage,drama
+960,angel on my shoulder,crime drama
+961,little lord fauntleroy,drama
+963,inspector general the,musical
+964,angel and the badman,romance western
+965,steps the,drama mystery thriller
+966,walk in the sun a,war
+967,outlaw the,western
+968,night of the living dead,horror sci fi thriller
+969,african queen the,adventure comedy romance war
+970,beat the devil,adventure comedy crime drama romance
+971,cat on a hot tin roof,drama
+972,last time i saw paris the,drama
+973,meet john doe,comedy drama
+974,algiers,drama romance
+976,farewell to arms a,romance war
+979,nothing personal,drama war
+980,yes madam,action
+981,dangerous ground,drama
+982,picnic,drama
+986,fly away home,adventure children
+987,bliss,drama romance
+988,grace of my heart,comedy drama
+990,maximum risk,action adventure thriller
+991,michael collins,drama
+993,infinity,drama
+994,big night,comedy drama
+996,last man standing,action crime drama thriller
+997,caught,drama thriller
+998,set it off,action crime
+999,days in the valley,crime film noir
+1000,curdled,crime
+1003,extreme measures,drama thriller
+1004,glimmer man the,action thriller
+1005,the mighty ducks,children comedy
+1006,chamber the,drama
+1007,apple dumpling gang the,children comedy western
+1008,davy crockett king of the wild frontier,adventure western
+1009,escape to witch mountain,adventure children fantasy
+1010,love bug the,children comedy
+1011,herbie rides again,adventure children comedy
+1012,old yeller,children drama
+1013,parent trap the,children comedy romance
+1014,pollyanna,children comedy drama
+1015,homeward bound the incredible journey,adventure children drama
+1016,shaggy dog the,children comedy
+1017,swiss family robinson,adventure children
+1018,that darn cat,children comedy mystery
+1019,leagues under the sea,adventure drama sci fi
+1020,cool runnings,comedy
+1021,angels in the outfield,children comedy
+1022,cinderella,animation children fantasy musical romance
+1023,winnie the pooh and the blustery day,animation children musical
+1024,three caballeros the,animation children musical
+1025,sword in the stone the,animation children fantasy musical
+1027,robin hood prince of thieves,adventure drama
+1028,mary poppins,children comedy fantasy musical
+1029,dumbo,animation children drama musical
+1030,pete s dragon,adventure animation children musical
+1031,bedknobs and broomsticks,adventure children musical
+1032,alice in wonderland,adventure animation children fantasy musical
+1033,fox and the hound the,animation children drama
+1034,freeway,comedy crime drama thriller
+1035,sound of music the,musical romance
+1036,die hard,action crime thriller
+1037,lawnmower man the,action horror sci fi thriller
+1038,unhook the stars,drama
+1040,secret agent the,drama
+1041,secrets lies,drama
+1042,that thing you do,comedy drama
+1043,to gillian on her birthday,drama romance
+1044,surviving picasso,drama
+1046,beautiful thing,drama romance
+1047,long kiss goodnight the,action drama thriller
+1049,ghost and the darkness the,action adventure
+1050,looking for richard,documentary drama
+1051,trees lounge,drama
+1053,normal life,crime drama romance
+1054,get on the bus,drama
+1056,jude,drama
+1057,everyone says i love you,comedy musical romance
+1058,bitter sugar,drama
+1059,william shakespeare s romeo juliet,drama romance
+1060,swingers,comedy drama
+1061,sleepers,thriller
+1063,johns,drama
+1064,aladdin and the king of thieves,animation children comedy fantasy musical romance
+1066,shall we dance,comedy musical romance
+1067,damsel in distress a,comedy musical romance
+1068,crossfire,crime film noir
+1069,murder my sweet,crime film noir thriller
+1070,macao,adventure
+1071,for the moment,romance war
+1073,willy wonka the chocolate factory,children comedy fantasy musical
+1076,innocents the,drama horror thriller
+1077,sleeper,comedy sci fi
+1078,bananas,comedy war
+1079,fish called wanda a,comedy crime
+1080,monty python s life of brian,comedy
+1081,victor victoria,comedy musical romance
+1082,candidate the,drama
+1083,great race the,comedy musical
+1084,bonnie and clyde,crime drama
+1085,old man and the sea the,adventure drama
+1086,dial m for murder,crime mystery thriller
+1087,madame butterfly,musical
+1088,dirty dancing,drama musical romance
+1089,reservoir dogs,crime mystery thriller
+1090,platoon,drama war
+1091,weekend at bernie s,comedy
+1092,basic instinct,crime mystery thriller
+1093,doors the,drama
+1094,crying game the,drama romance thriller
+1095,glengarry glen ross,drama
+1096,sophie s choice,drama
+1097,e t the extra terrestrial,children drama sci fi
+1099,christmas carol a,children drama fantasy
+1100,days of thunder,action drama romance
+1101,top gun,action romance
+1103,rebel without a cause,drama
+1104,streetcar named desire a,drama
+1105,children of the corn iv the gathering,horror
+1111,microcosmos,documentary
+1112,palookaville,action comedy drama
+1113,associate the,comedy
+1114,funeral the,crime drama
+1116,single girl a,drama
+1117,eighth day the,drama
+1119,drunks,drama
+1120,people vs larry flynt the,comedy drama
+1121,glory daze,drama
+1123,perfect candidate a,documentary
+1124,on golden pond,drama
+1125,return of the pink panther the,comedy crime
+1126,drop dead fred,comedy fantasy
+1127,abyss the,action adventure sci fi thriller
+1128,fog the,horror
+1129,escape from new york,action adventure sci fi thriller
+1130,howling the,horror mystery
+1131,jean de florette,drama mystery
+1132,manon of the spring,drama
+1133,talking about sex,comedy drama
+1135,private benjamin,comedy
+1136,monty python and the holy grail,adventure comedy fantasy
+1145,snowriders,documentary
+1147,when we were kings,documentary
+1148,wallace gromit the wrong trousers,animation children comedy crime
+1150,return of martin guerre the,drama
+1152,he walked by night,crime film noir thriller
+1153,raw deal,film noir
+1154,t men,film noir
+1156,children are watching us the,drama
+1161,tin drum the,drama war
+1162,ruling class the,comedy drama
+1167,dear god,comedy
+1168,bad moon,action adventure horror
+1169,american dream,documentary
+1170,best of the best no turning back,action
+1171,bob roberts,comedy
+1172,cinema paradiso,drama
+1173,cook the thief his wife her lover the,comedy drama
+1175,delicatessen,comedy drama romance
+1176,double life of veronique the,drama fantasy romance
+1177,enchanted april,drama romance
+1178,paths of glory,drama war
+1179,grifters the,crime drama film noir
+1180,hear my song,comedy
+1183,english patient the,drama romance war
+1184,mediterraneo,comedy drama
+1185,my left foot,drama
+1186,sex lies and videotape,drama
+1187,passion fish,drama
+1188,strictly ballroom,comedy romance
+1189,thin blue line the,documentary
+1190,tie me up tie me down,crime drama romance
+1191,madonna truth or dare,documentary musical
+1192,paris is burning,documentary
+1193,one flew over the cuckoo s nest,drama
+1194,cheech and chong s up in smoke,comedy
+1196,star wars episode v the empire strikes back,action adventure sci fi
+1197,princess bride the,action adventure comedy fantasy romance
+1198,raiders of the lost ark,action adventure
+1199,brazil,fantasy sci fi
+1200,aliens,action adventure horror sci fi
+1201,good the bad and the ugly the,action adventure western
+1202,withnail i,comedy
+1203,angry men,drama
+1204,lawrence of arabia,adventure drama war
+1206,clockwork orange a,crime drama sci fi thriller
+1207,to kill a mockingbird,drama
+1208,apocalypse now,action drama war
+1209,once upon a time in the west,action drama western
+1210,star wars episode vi return of the jedi,action adventure sci fi
+1211,wings of desire,drama fantasy romance
+1212,third man the,film noir mystery thriller
+1213,goodfellas,crime drama
+1214,alien,horror sci fi
+1215,army of darkness,action adventure comedy fantasy horror
+1216,big blue the,adventure drama romance
+1217,ran,drama war
+1218,killer the,action crime drama thriller
+1219,psycho,crime horror
+1220,blues brothers the,action comedy musical
+1221,godfather part ii the,crime drama
+1222,full metal jacket,drama war
+1223,grand day out with wallace and gromit a,adventure animation children comedy sci fi
+1224,henry v,action drama romance war
+1225,amadeus,drama
+1226,quiet man the,drama romance
+1227,once upon a time in america,crime drama
+1228,raging bull,drama
+1230,annie hall,comedy romance
+1231,right stuff the,drama
+1232,stalker,drama mystery sci fi
+1233,boot das,action drama war
+1234,sting the,comedy crime
+1235,harold and maude,comedy drama romance
+1236,trust,comedy drama romance
+1237,seventh seal the,drama
+1238,local hero,comedy
+1240,terminator the,action sci fi thriller
+1241,dead alive,comedy fantasy horror
+1242,glory,drama war
+1243,rosencrantz and guildenstern are dead,comedy drama
+1244,manhattan,comedy drama romance
+1245,miller s crossing,crime drama film noir thriller
+1246,dead poets society,drama
+1247,graduate the,comedy drama romance
+1248,touch of evil,crime film noir thriller
+1249,femme nikita la,action crime romance thriller
+1250,bridge on the river kwai the,adventure drama war
+1251,,drama fantasy
+1252,chinatown,crime film noir mystery thriller
+1253,day the earth stood still the,drama sci fi thriller
+1254,treasure of the sierra madre the,action adventure drama western
+1255,bad taste,comedy horror sci fi
+1256,duck soup,comedy musical war
+1257,better off dead,comedy romance
+1258,shining the,horror
+1259,stand by me,adventure drama
+1260,m,crime film noir thriller
+1261,evil dead ii,action comedy fantasy horror
+1262,great escape the,action adventure drama war
+1263,deer hunter the,drama war
+1264,diva,action drama mystery romance thriller
+1265,groundhog day,comedy fantasy romance
+1266,unforgiven,drama western
+1267,manchurian candidate the,crime thriller war
+1268,pump up the volume,comedy drama
+1269,arsenic and old lace,comedy mystery thriller
+1270,back to the future,adventure comedy sci fi
+1271,fried green tomatoes,comedy crime drama
+1272,patton,drama war
+1273,down by law,comedy drama film noir
+1274,akira,action adventure animation sci fi
+1275,highlander,action adventure fantasy
+1276,cool hand luke,drama
+1277,cyrano de bergerac,comedy drama romance
+1278,young frankenstein,comedy fantasy
+1279,night on earth,comedy drama
+1280,raise the red lantern,drama
+1281,great dictator the,comedy drama war
+1282,fantasia,animation children fantasy musical
+1283,high noon,drama western
+1284,big sleep the,crime film noir mystery
+1285,heathers,comedy
+1286,somewhere in time,drama romance
+1287,ben hur,action adventure drama
+1288,this is spinal tap,comedy
+1289,koyaanisqatsi,documentary
+1290,some kind of wonderful,drama romance
+1291,indiana jones and the last crusade,action adventure
+1292,being there,comedy drama
+1293,gandhi,drama
+1295,unbearable lightness of being the,drama
+1296,room with a view a,drama romance
+1297,real genius,comedy
+1298,pink floyd the wall,drama musical
+1299,killing fields the,drama war
+1300,my life as a dog,comedy drama
+1301,forbidden planet,drama sci fi
+1302,field of dreams,children drama fantasy
+1303,man who would be king the,adventure drama
+1304,butch cassidy and the sundance kid,action western
+1305,paris texas,drama romance
+1306,until the end of the world,adventure drama sci fi
+1307,when harry met sally,comedy romance
+1311,santa with muscles,comedy
+1312,female perversions,drama
+1317,i m not rappaport,comedy
+1318,blue juice,comedy drama
+1320,alien,action horror sci fi thriller
+1321,american werewolf in london an,comedy horror thriller
+1322,amityville it s about time,horror
+1323,amityville,horror
+1324,amityville dollhouse,horror
+1325,amityville a new generation,horror
+1326,amityville ii the possession,horror
+1327,amityville horror the,drama horror mystery thriller
+1328,amityville curse the,horror
+1329,blood for dracula,horror
+1330,april fool s day,horror
+1332,believers the,horror thriller
+1333,birds the,horror thriller
+1334,blob the,horror sci fi
+1336,body parts,horror thriller
+1337,body snatcher the,drama horror thriller
+1339,dracula,fantasy horror romance thriller
+1340,bride of frankenstein the,drama horror sci fi
+1342,candyman,horror thriller
+1343,cape fear,thriller
+1344,cape fear,crime drama thriller
+1345,carrie,drama fantasy horror thriller
+1346,cat people,drama fantasy horror
+1347,nightmare on elm street a,horror thriller
+1348,nosferatu,horror
+1349,vampire in venice,horror
+1350,omen the,horror mystery thriller
+1351,blood and wine,crime drama thriller
+1352,albino alligator,crime thriller
+1353,mirror has two faces the,comedy drama romance
+1354,breaking the waves,drama mystery
+1355,nightwatch,horror thriller
+1356,star trek first contact,action adventure sci fi thriller
+1357,shine,drama romance
+1358,sling blade,drama
+1359,jingle all the way,children comedy
+1361,paradise lost the child murders at robin hood hills,documentary
+1363,preacher s wife the,drama
+1365,ridicule,drama
+1366,crucible the,drama
+1367,dalmatians,adventure children comedy
+1370,die hard,action adventure thriller
+1371,star trek the motion picture,adventure sci fi
+1372,star trek vi the undiscovered country,action mystery sci fi
+1373,star trek v the final frontier,action sci fi
+1374,star trek ii the wrath of khan,action adventure sci fi thriller
+1375,star trek iii the search for spock,action adventure sci fi
+1376,star trek iv the voyage home,adventure comedy sci fi
+1377,batman returns,action crime
+1378,young guns,action comedy western
+1379,young guns ii,action western
+1380,grease,comedy musical romance
+1381,grease,comedy musical romance
+1382,marked for death,action drama
+1385,under siege,action drama thriller
+1386,terror in a texas town,western
+1387,jaws,action horror
+1388,jaws,horror thriller
+1389,jaws,action horror
+1390,my fellow americans,comedy
+1391,mars attacks,action comedy sci fi
+1392,citizen ruth,comedy drama
+1393,jerry maguire,drama romance
+1394,raising arizona,comedy
+1395,tin men,comedy drama
+1396,sneakers,action comedy crime drama sci fi
+1397,bastard out of carolina,drama
+1398,in love and war,romance war
+1399,marvin s room,drama
+1401,ghosts of mississippi,drama
+1404,night falls on manhattan,crime drama
+1405,beavis and butt head do america,adventure animation comedy crime
+1406,la c r monie,crime drama mystery thriller
+1407,scream,comedy horror mystery thriller
+1408,last of the mohicans the,action romance war western
+1409,michael,comedy drama fantasy romance
+1410,evening star the,comedy drama
+1411,hamlet,crime drama romance
+1412,some mother s son,drama
+1413,whole wide world the,drama
+1414,mother,comedy
+1415,thieves,crime drama romance
+1416,evita,drama musical
+1417,portrait of a lady the,drama
+1419,walkabout,adventure drama
+1421,grateful dead,documentary
+1422,murder at,crime drama mystery thriller
+1423,hearts and minds,drama
+1425,fierce creatures,comedy
+1427,turbulence,action thriller
+1428,angel baby,drama
+1429,first strike,action adventure comedy thriller
+1430,underworld,comedy thriller
+1431,beverly hills ninja,action comedy
+1432,metro,action comedy crime drama thriller
+1437,cement garden the,drama
+1438,dante s peak,action thriller
+1439,meet wally sparks,comedy
+1440,amos andrew,comedy
+1441,benny joon,comedy romance
+1442,prefontaine,drama
+1445,mchale s navy,comedy war
+1446,kolya,comedy drama
+1447,gridlock d,crime
+1449,waiting for guffman,comedy
+1450,prisoner of the mountains,war
+1453,beautician and the beast the,comedy romance
+1454,suburbia,comedy drama
+1455,hotel de love,comedy romance
+1456,pest the,comedy
+1457,fools rush in,comedy drama romance
+1458,touch,drama fantasy romance
+1459,absolute power,mystery thriller
+1460,that darn cat,children comedy mystery
+1461,vegas vacation,comedy
+1463,that old feeling,comedy romance
+1464,lost highway,crime drama fantasy film noir mystery romance
+1465,rosewood,action drama
+1466,donnie brasco,crime drama
+1468,booty call,comedy romance
+1471,boys life,drama
+1472,city of industry,crime thriller
+1473,best men,action comedy crime drama
+1474,,children comedy
+1475,kama sutra a tale of love,romance
+1476,private parts,comedy drama
+1477,love jones,romance
+1479,saint the,action romance sci fi thriller
+1480,smilla s sense of snow,drama thriller
+1482,van the,comedy drama
+1483,crash,drama thriller
+1484,daytrippers the,comedy drama mystery romance
+1485,liar liar,comedy
+1486,quiet room the,drama
+1487,selena,drama musical
+1488,devil s own the,action drama thriller
+1489,cats don t dance,animation children musical
+1490,b a p s,comedy
+1493,love and other catastrophes,romance
+1495,turbo a power rangers movie,action adventure children
+1496,anna karenina,drama romance
+1497,double team,action
+1498,inventing the abbotts,drama romance
+1499,anaconda,action adventure thriller
+1500,grosse pointe blank,comedy crime romance
+1501,keys to tulsa,crime
+1503,heads in a duffel bag,comedy
+1504,hollow reed,drama
+1508,traveller,drama
+1509,all over me,drama
+1511,chef in love a,comedy romance
+1513,romy and michele s high school reunion,comedy
+1514,temptress moon,romance
+1515,volcano,action drama thriller
+1516,children of the revolution,comedy
+1517,austin powers international man of mystery,action adventure comedy
+1518,breakdown,action thriller
+1519,broken english,drama
+1520,commandments,romance
+1522,ripe,drama
+1523,truth or consequences n m,action crime romance
+1526,fathers day,comedy
+1527,fifth element the,action adventure comedy sci fi
+1528,intimate relations,comedy
+1529,nowhere,comedy drama
+1533,promise the,drama
+1534,bonheur le,drama
+1535,love valour compassion,drama romance
+1537,shall we dance,comedy drama romance
+1539,twin town,comedy crime
+1541,addicted to love,comedy romance
+1542,brassed off,comedy drama romance
+1543,designated mourner the,drama
+1544,lost world jurassic park the,action adventure sci fi thriller
+1545,ponette,drama
+1546,schizopolis,comedy
+1547,shiloh,children drama
+1548,war at home the,drama
+1550,trial and error,comedy romance
+1552,con air,action adventure thriller
+1554,pillow book the,drama romance
+1555,to have or not,drama
+1556,speed cruise control,action romance thriller
+1562,batman robin,action adventure fantasy thriller
+1565,head above water,comedy thriller
+1566,hercules,adventure animation children comedy musical
+1569,my best friend s wedding,comedy romance
+1571,when the cat s away,comedy romance
+1572,contempt,drama
+1573,face off,action crime drama thriller
+1580,men in black,action comedy sci fi
+1581,out to sea,comedy
+1582,wild america,adventure children
+1583,simple wish a,children fantasy
+1584,contact,drama sci fi
+1585,love serenade,comedy
+1586,g i jane,action drama
+1587,conan the barbarian,action adventure fantasy
+1588,george of the jungle,children comedy
+1589,cop land,action crime drama thriller
+1590,event horizon,horror sci fi thriller
+1591,spawn,action adventure sci fi thriller
+1592,air bud,children comedy
+1593,picture perfect,comedy romance
+1594,in the company of men,comedy drama
+1595,free willy the rescue,adventure children drama
+1596,career girls,drama
+1597,conspiracy theory,drama mystery romance thriller
+1598,desperate measures,crime drama thriller
+1599,steel,action
+1600,she s so lovely,drama romance
+1601,hoodlum,crime drama film noir
+1602,leave it to beaver,comedy
+1603,mimic,horror sci fi thriller
+1604,money talks,action comedy
+1605,excess baggage,adventure romance
+1606,kull the conqueror,action adventure
+1608,air force one,action thriller
+1609,,drama thriller
+1610,hunt for red october the,action adventure thriller
+1611,my own private idaho,drama romance
+1612,kiss me guido,comedy
+1614,in out,comedy
+1615,edge the,adventure drama
+1616,peacemaker the,action thriller war
+1617,l a confidential,crime film noir mystery thriller
+1619,seven years in tibet,adventure drama war
+1620,kiss the girls,crime drama mystery thriller
+1621,soul food,drama
+1623,wishmaster,horror
+1624,thousand acres a,drama
+1625,game the,drama mystery thriller
+1626,fire down below,action drama thriller
+1627,u turn,crime drama mystery
+1629,matchmaker the,comedy romance
+1631,assignment the,action thriller
+1632,smile like yours a,comedy romance
+1633,ulee s gold,drama
+1635,ice storm the,drama
+1639,chasing amy,comedy drama romance
+1641,full monty the,comedy drama
+1642,indian summer,comedy drama
+1643,mrs brown,drama romance
+1644,i know what you did last summer,horror mystery thriller
+1645,devil s advocate the,drama mystery thriller
+1646,rocketman,children comedy romance sci fi
+1647,playing god,crime drama thriller
+1648,house of yes the,comedy drama
+1649,fast cheap out of control,documentary
+1650,washington square,drama
+1651,telling lies in america,drama
+1653,gattaca,drama sci fi thriller
+1654,fairytale a true story,children drama fantasy
+1655,phantoms,drama horror thriller
+1656,swept from the sea,drama romance
+1658,life less ordinary a,romance thriller
+1659,hurricane streets,drama
+1660,eve s bayou,drama
+1661,switchback,crime mystery thriller
+1663,stripes,comedy war
+1665,bean,comedy
+1667,mad city,action drama
+1669,tango lesson the,romance
+1670,welcome to sarajevo,drama war
+1671,deceiver,crime drama thriller
+1672,rainmaker the,drama
+1673,boogie nights,drama
+1674,witness,drama romance thriller
+1675,incognito,crime thriller
+1676,starship troopers,action sci fi
+1678,joy luck club the,drama romance
+1680,sliding doors,drama romance
+1681,mortal kombat annihilation,action adventure fantasy
+1682,truman show the,comedy drama sci fi
+1683,wings of the dove the,drama romance
+1684,mrs dalloway,drama romance
+1686,red corner,crime thriller
+1687,jackal the,action thriller
+1688,anastasia,adventure animation children drama musical
+1689,man who knew too little the,comedy crime thriller
+1690,alien resurrection,action horror sci fi
+1692,alien escape,horror sci fi
+1693,amistad,drama mystery
+1694,apostle the,drama
+1695,artemisia,drama
+1696,bent,drama war
+1699,butcher boy the,comedy drama
+1701,deconstructing harry,comedy drama
+1702,flubber,children comedy fantasy
+1703,for richer or poorer,comedy
+1704,good will hunting,drama romance
+1707,home alone,children comedy
+1711,midnight in the garden of good and evil,crime drama mystery
+1713,mouse hunt,children comedy
+1716,other voices other rooms,drama
+1717,scream,comedy horror mystery thriller
+1719,sweet hereafter the,drama
+1721,titanic,drama romance
+1722,tomorrow never dies,action adventure thriller
+1726,postman the,action adventure drama sci fi
+1727,horse whisperer the,drama romance
+1729,jackie brown,crime drama thriller
+1730,kundun,drama
+1731,mr magoo,comedy
+1732,big lebowski the,comedy crime
+1733,afterglow,drama romance
+1734,my life in pink,comedy drama
+1735,great expectations,drama romance
+1739,ninjas high noon on mega mountain,action children comedy
+1744,firestorm,action adventure thriller
+1747,wag the dog,comedy
+1748,dark city,adventure film noir sci fi thriller
+1750,star kid,adventure children fantasy sci fi
+1752,hard rain,action crime thriller
+1753,half baked,comedy
+1754,fallen,crime drama fantasy thriller
+1755,shooting fish,comedy romance
+1756,prophecy ii the,horror
+1757,fallen angels,drama romance
+1759,four days in september,drama
+1760,spice world,comedy
+1762,deep rising,action horror sci fi
+1767,music from another room,drama romance
+1769,replacement killers the,action crime thriller
+1770,b monkey,crime romance thriller
+1771,night flier,horror
+1772,blues brothers,action comedy musical
+1773,tokyo fist,action drama
+1777,wedding singer the,comedy romance
+1779,sphere,sci fi thriller
+1783,palmetto,crime drama mystery romance thriller
+1784,as good as it gets,comedy drama romance
+1785,king of new york,crime thriller
+1788,men with guns,action drama
+1791,twilight,crime drama thriller
+1792,u s marshals,action crime thriller
+1793,welcome to woop woop,comedy
+1794,love and death on long island,comedy drama
+1796,in god s hands,action drama
+1797,everest,documentary imax
+1799,suicide kings,comedy crime drama mystery thriller
+1801,man in the iron mask the,action adventure drama
+1804,newton boys the,crime drama
+1805,wild things,crime drama mystery thriller
+1806,paulie,adventure children comedy
+1809,fireworks,crime drama
+1810,primary colors,comedy drama
+1814,price above rubies a,drama
+1816,two girls and a guy,comedy drama
+1821,object of my affection the,comedy romance
+1822,meet the deedles,children comedy
+1824,homegrown,comedy thriller
+1825,the players club,comedy drama
+1826,barney s great adventure,adventure children
+1827,big one the,comedy documentary
+1829,chinese box,drama romance
+1831,lost in space,action adventure sci fi
+1833,mercury rising,action drama thriller
+1834,spanish prisoner the,crime drama mystery thriller
+1835,city of angels,drama fantasy romance
+1836,last days of disco the,comedy drama
+1840,he got game,drama
+1841,gingerbread man the,drama thriller
+1844,live flesh,drama romance
+1845,zero effect,comedy mystery thriller
+1846,nil by mouth,drama
+1848,borrowers the,adventure children comedy fantasy
+1853,alan smithee film burn hollywood burn an,comedy
+1854,kissing a fool,comedy romance
+1855,krippendorf s tribe,comedy
+1856,kurt courtney,documentary
+1857,real blonde the,comedy
+1858,mr nice guy,action comedy
+1859,taste of cherry,drama
+1860,character,drama
+1862,species ii,horror sci fi
+1863,major league back to the minors,comedy
+1865,wild man blues,documentary
+1866,big hit the,action comedy crime
+1867,tarzan and the lost city,action adventure
+1869,black dog,action thriller
+1870,dancer texas pop,comedy drama
+1871,friend of the deceased a,comedy drama
+1873,mis rables les,crime drama romance war
+1875,clockwatchers,comedy
+1876,deep impact,drama sci fi thriller
+1878,woo,comedy romance
+1879,hanging garden the,drama romance
+1880,lawn dogs,drama
+1881,quest for camelot,adventure animation children fantasy musical
+1882,godzilla,action sci fi thriller
+1883,bulworth,comedy drama romance
+1884,fear and loathing in las vegas,adventure comedy drama
+1885,opposite of sex the,comedy drama romance
+1887,almost heroes,adventure comedy western
+1888,hope floats,comedy drama romance
+1889,insomnia,drama mystery thriller
+1890,little boy blue,drama
+1892,perfect murder a,thriller
+1893,beyond silence,drama
+1894,six days seven nights,adventure comedy romance
+1895,can t hardly wait,comedy drama romance
+1896,cousin bette,comedy
+1897,high art,drama romance
+1899,passion in the desert,adventure drama
+1900,children of heaven the,comedy drama
+1902,dream for an insomniac,drama romance
+1904,henry fool,comedy drama
+1905,marie from the bay of angels,drama
+1906,mr jealousy,comedy romance
+1907,mulan,adventure animation children comedy drama musical romance
+1909,x files fight the future the,action crime mystery sci fi thriller
+1910,i went down,comedy crime drama
+1911,dr dolittle,comedy
+1912,out of sight,comedy crime drama romance thriller
+1913,picnic at hanging rock,drama mystery
+1914,smoke signals,comedy drama
+1916,buffalo,drama romance
+1917,armageddon,action romance sci fi thriller
+1918,lethal weapon,action comedy crime thriller
+1920,small soldiers,animation children fantasy war
+1921,pi,drama sci fi thriller
+1922,whatever,drama
+1923,there s something about mary,comedy romance
+1924,plan from outer space,horror sci fi
+1925,wings,action drama romance war
+1927,all quiet on the western front,action drama war
+1929,grand hotel,drama romance
+1931,mutiny on the bounty,adventure drama
+1933,life of emile zola the,drama
+1934,you can t take it with you,comedy romance
+1935,how green was my valley,drama musical romance
+1936,mrs miniver,drama war
+1937,going my way,comedy drama musical
+1938,lost weekend the,drama
+1939,best years of our lives the,drama war
+1940,gentleman s agreement,drama
+1941,hamlet,drama
+1942,all the king s men,drama
+1943,greatest show on earth the,drama
+1944,from here to eternity,drama romance war
+1945,on the waterfront,crime drama
+1946,marty,drama romance
+1947,west side story,drama musical romance
+1948,tom jones,adventure comedy romance
+1949,man for all seasons a,drama
+1950,in the heat of the night,drama mystery
+1951,oliver,drama musical
+1952,midnight cowboy,drama
+1953,french connection the,action crime thriller
+1954,rocky,drama
+1955,kramer vs kramer,drama
+1956,ordinary people,drama
+1957,chariots of fire,drama
+1958,terms of endearment,comedy drama
+1959,out of africa,drama romance
+1960,last emperor the,drama
+1961,rain man,drama
+1962,driving miss daisy,drama
+1963,take the money and run,comedy crime
+1964,klute,drama mystery
+1965,repo man,comedy sci fi
+1966,metropolitan,comedy
+1967,labyrinth,adventure fantasy musical
+1968,breakfast club the,comedy drama
+1969,nightmare on elm street freddy s revenge a,horror
+1970,nightmare on elm street dream warriors a,horror thriller
+1971,nightmare on elm street the dream master a,horror thriller
+1972,nightmare on elm street the dream child a,horror
+1973,freddy s dead the final nightmare,horror
+1974,friday the,horror mystery thriller
+1975,friday the part,horror
+1976,friday the part,horror
+1977,friday the part iv the final chapter,horror
+1978,friday the part v a new beginning,horror
+1979,friday the part vi jason lives,horror
+1980,friday the part vii the new blood,horror
+1981,friday the part viii jason takes manhattan,horror
+1982,halloween,horror
+1983,halloween ii,horror
+1984,halloween iii season of the witch,horror
+1985,halloween the return of michael myers,horror
+1986,halloween the revenge of michael myers,horror
+1987,prom night,horror
+1991,child s play,horror thriller
+1992,child s play,horror thriller
+1993,child s play,comedy horror thriller
+1994,poltergeist,horror thriller
+1995,poltergeist ii the other side,horror thriller
+1996,poltergeist iii,horror thriller
+1997,exorcist the,horror mystery
+1998,exorcist ii the heretic,horror
+1999,exorcist iii the,horror
+2000,lethal weapon,action comedy crime drama
+2001,lethal weapon,action comedy crime drama
+2002,lethal weapon,action comedy crime drama
+2003,gremlins,comedy horror
+2004,gremlins the new batch,comedy horror
+2005,goonies the,action adventure children comedy fantasy
+2006,mask of zorro the,action comedy romance
+2007,polish wedding,comedy
+2009,soylent green,drama mystery sci fi thriller
+2010,metropolis,drama sci fi
+2011,back to the future part ii,adventure comedy sci fi
+2012,back to the future part iii,adventure comedy sci fi western
+2013,poseidon adventure the,action adventure drama
+2014,freaky friday,children comedy fantasy
+2015,absent minded professor the,children comedy fantasy
+2016,apple dumpling gang rides again the,children comedy western
+2017,babes in toyland,children fantasy musical
+2018,bambi,animation children drama
+2019,seven samurai,action adventure drama
+2020,dangerous liaisons,drama romance
+2021,dune,adventure sci fi
+2022,last temptation of christ the,drama
+2023,godfather part iii the,crime drama mystery thriller
+2024,rapture the,drama mystery
+2025,lolita,drama romance
+2026,disturbing behavior,horror thriller
+2027,jane austen s mafia,comedy crime
+2028,saving private ryan,action drama war
+2029,billy s hollywood screen kiss,comedy romance
+2030,east palace west palace,drama
+2031,million dollar duck the,children comedy
+2032,barefoot executive the,children comedy
+2033,black cauldron the,adventure animation children fantasy
+2034,black hole the,children sci fi
+2035,blackbeard s ghost,children comedy
+2036,blank check,children comedy
+2037,candleshoe,adventure children comedy
+2038,cat from outer space the,children comedy sci fi
+2040,computer wore tennis shoes the,children comedy
+2041,condorman,action adventure children comedy
+2042,the mighty ducks,children comedy
+2043,darby o gill and the little people,adventure children fantasy
+2044,devil and max devlin the,comedy fantasy
+2045,far off place a,adventure children drama romance
+2046,flight of the navigator,adventure children sci fi
+2048,great mouse detective the,action animation children crime
+2049,happiest millionaire the,comedy musical
+2050,herbie goes bananas,adventure children comedy
+2051,herbie goes to monte carlo,adventure children comedy
+2052,hocus pocus,children comedy fantasy horror
+2053,honey i blew up the kid,children comedy sci fi
+2054,honey i shrunk the kids,adventure children comedy fantasy sci fi
+2055,hot lead and cold feet,action comedy western
+2056,in search of the castaways,adventure children
+2057,incredible journey the,adventure children
+2058,negotiator the,action crime drama mystery thriller
+2059,parent trap the,children comedy romance
+2060,baseketball,comedy
+2061,full tilt boogie,documentary
+2062,governess the,drama romance
+2064,roger me,documentary
+2065,purple rose of cairo the,comedy drama fantasy romance
+2066,out of the past,film noir
+2067,doctor zhivago,drama romance war
+2068,fanny and alexander,drama fantasy mystery
+2069,trip to bountiful the,drama
+2070,tender mercies,drama romance western
+2071,and the band played on,drama
+2072,burbs the,comedy
+2073,fandango,comedy
+2074,night porter the,crime drama romance
+2075,mephisto,drama war
+2076,blue velvet,drama mystery thriller
+2077,journey of natty gann the,adventure children
+2078,jungle book the,animation children comedy musical
+2079,kidnapped,adventure children drama
+2080,lady and the tramp,animation children comedy romance
+2081,little mermaid the,animation children comedy musical romance
+2082,mighty ducks the,children comedy
+2083,muppet christmas carol the,children comedy musical
+2084,newsies,children musical
+2085,dalmatians,adventure animation children
+2086,one magic christmas,drama fantasy
+2087,peter pan,animation children fantasy musical
+2088,popeye,adventure comedy musical
+2089,rescuers down under the,adventure animation children
+2090,rescuers the,adventure animation children crime drama
+2091,return from witch mountain,children sci fi
+2092,return of jafar the,adventure animation children fantasy musical romance
+2093,return to oz,adventure children fantasy
+2094,rocketeer the,action adventure sci fi
+2095,shaggy d a the,children comedy
+2096,sleeping beauty,animation children musical
+2097,something wicked this way comes,children drama fantasy mystery thriller
+2098,son of flubber,children comedy
+2099,song of the south,adventure animation children musical
+2100,splash,comedy fantasy romance
+2101,squanto a warrior s tale,adventure drama
+2102,steamboat willie,animation children comedy musical
+2103,tall tale,adventure children fantasy western
+2104,tex,drama
+2105,tron,action adventure sci fi
+2106,swing kids,drama war
+2107,halloween years later,horror thriller
+2108,l a story,comedy romance
+2109,jerk the,comedy
+2110,dead men don t wear plaid,comedy crime thriller
+2111,man with two brains the,comedy
+2112,grand canyon,crime drama
+2113,graveyard shift,horror thriller
+2114,outsiders the,drama
+2115,indiana jones and the temple of doom,action adventure fantasy
+2116,lord of the rings the,adventure animation children fantasy
+2117,,drama sci fi
+2118,dead zone the,thriller
+2119,maximum overdrive,horror
+2120,needful things,drama horror
+2121,cujo,horror thriller
+2122,children of the corn,horror thriller
+2123,all dogs go to heaven,animation children comedy drama fantasy
+2124,addams family the,children comedy fantasy
+2125,ever after a cinderella story,comedy drama romance
+2126,snake eyes,action crime mystery thriller
+2130,atlantic city,crime drama romance
+2131,autumn sonata,drama
+2132,who s afraid of virginia woolf,drama
+2133,adventures in babysitting,adventure comedy
+2134,weird science,comedy fantasy sci fi
+2135,doctor dolittle,adventure children musical
+2136,nutty professor the,comedy sci fi
+2137,charlotte s web,animation children
+2138,watership down,adventure animation children drama fantasy
+2139,secret of nimh the,adventure animation children drama
+2140,dark crystal the,adventure fantasy
+2141,american tail an,adventure animation children comedy
+2142,american tail fievel goes west an,adventure animation children musical western
+2143,legend,adventure fantasy romance
+2144,sixteen candles,comedy romance
+2145,pretty in pink,comedy drama romance
+2146,st elmo s fire,drama romance
+2147,clan of the cave bear the,adventure drama fantasy
+2148,house,comedy fantasy horror
+2149,house ii the second story,comedy fantasy horror
+2150,gods must be crazy the,adventure comedy
+2151,gods must be crazy ii the,comedy
+2152,air bud golden receiver,children comedy
+2153,avengers the,action adventure
+2154,how stella got her groove back,drama romance
+2155,slums of beverly hills the,comedy drama
+2157,chambermaid on the titanic the,romance
+2158,henry portrait of a serial killer part,crime horror
+2159,henry portrait of a serial killer,crime horror thriller
+2160,rosemary s baby,drama horror thriller
+2161,neverending story the,adventure children fantasy
+2162,neverending story ii the next chapter the,adventure children fantasy
+2163,attack of the killer tomatoes,comedy horror
+2164,surf nazis must die,action comedy drama horror
+2165,your friends and neighbors,comedy drama
+2166,return to paradise,crime drama romance thriller
+2167,blade,action horror thriller
+2168,dance with me,drama romance
+2169,dead man on campus,comedy
+2170,wrongfully accused,action comedy
+2171,next stop wonderland,comedy drama romance
+2172,strike,comedy drama
+2173,navigator a mediaeval odyssey the,adventure fantasy sci fi
+2174,beetlejuice,comedy fantasy
+2176,rope,crime drama thriller
+2177,family plot,comedy thriller
+2178,frenzy,thriller
+2179,topaz,thriller
+2180,torn curtain,thriller
+2181,marnie,drama mystery romance thriller
+2182,wrong man the,drama film noir thriller
+2183,man who knew too much the,adventure drama mystery thriller
+2184,trouble with harry the,comedy mystery
+2185,i confess,thriller
+2186,strangers on a train,crime drama film noir thriller
+2187,stage fright,mystery romance thriller
+2188,,drama
+2189,i married a strange person,animation comedy fantasy sci fi
+2190,why do fools fall in love,drama
+2191,merry war a,comedy
+2192,see the sea,thriller
+2193,willow,action adventure fantasy
+2194,untouchables the,action crime drama
+2195,dirty work,comedy
+2196,knock off,action
+2197,firelight,drama
+2200,under capricorn,drama
+2201,paradine case the,drama
+2202,lifeboat,drama war
+2203,shadow of a doubt,crime drama thriller
+2204,saboteur,mystery thriller
+2205,mr mrs smith,comedy romance
+2206,suspicion,film noir mystery thriller
+2207,jamaica inn,drama
+2208,lady vanishes the,drama mystery thriller
+2209,young and innocent,crime thriller
+2210,sabotage,thriller
+2211,secret agent,thriller
+2212,man who knew too much the,drama thriller
+2215,rich and strange,comedy romance
+2221,blackmail,drama thriller
+2222,champagne,comedy
+2227,lodger a story of the london fog the,crime drama thriller
+2231,rounders,drama
+2232,cube,horror mystery sci fi thriller
+2236,simon birch,drama
+2237,without limits,drama
+2238,seven beauties,comedy drama
+2239,swept away,comedy drama
+2240,my bodyguard,drama
+2243,broadcast news,comedy drama romance
+2245,working girl,comedy drama romance
+2247,married to the mob,comedy
+2248,say anything,comedy drama romance
+2249,my blue heaven,comedy
+2250,men don t leave,drama
+2252,hero,comedy drama
+2253,toys,comedy fantasy
+2254,choices,drama
+2255,young doctors in love,comedy
+2258,master the,action
+2259,blame it on rio,comedy romance
+2261,one crazy summer,comedy
+2262,about last night,comedy drama romance
+2263,seventh sign the,drama fantasy thriller
+2264,we re no angels,comedy crime
+2265,nothing but trouble,adventure comedy
+2266,butcher s wife the,comedy romance
+2267,mortal thoughts,mystery thriller
+2268,few good men a,crime drama thriller
+2269,indecent proposal,drama romance
+2271,permanent midnight,drama
+2272,one true thing,drama
+2273,rush hour,action comedy crime thriller
+2275,six string samurai,action adventure sci fi
+2276,soldier s daughter never cries a,drama
+2278,ronin,action crime thriller
+2279,urban legend,horror thriller
+2280,clay pigeons,crime
+2282,pecker,comedy drama
+2283,sheltering sky the,drama
+2284,bandit queen,drama
+2285,if,drama
+2287,them,horror sci fi thriller
+2288,thing the,action horror sci fi thriller
+2289,player the,comedy crime drama
+2290,stardust memories,comedy drama
+2291,edward scissorhands,drama fantasy romance
+2293,shadrach,drama
+2294,antz,adventure animation children comedy fantasy
+2295,impostors the,comedy
+2296,night at the roxbury a,comedy
+2297,what dreams may come,adventure drama fantasy romance
+2300,producers the,comedy
+2301,history of the world part i,comedy musical
+2302,my cousin vinny,comedy
+2303,nashville,drama musical
+2305,slam,drama
+2306,holy man,comedy
+2307,one tough cop,action crime
+2310,mighty the,drama
+2311,the year we make contact,sci fi
+2312,children of a lesser god,drama
+2313,elephant man the,drama
+2314,beloved,drama
+2315,bride of chucky,comedy horror thriller
+2316,practical magic,drama fantasy mystery romance
+2318,happiness,comedy drama
+2320,apt pupil,drama thriller
+2321,pleasantville,comedy drama fantasy
+2322,soldier,action sci fi war
+2323,cruise the,documentary
+2324,life is beautiful,comedy drama romance war
+2325,orgazmo,comedy
+2326,shattered image,drama thriller
+2327,tales from the darkside the movie,fantasy horror thriller
+2328,vampires,horror western
+2329,american history x,crime drama
+2330,hands on a hard body,comedy documentary
+2331,living out loud,comedy drama romance
+2333,gods and monsters,drama
+2334,siege the,action thriller
+2335,waterboy the,comedy
+2336,elizabeth,drama
+2337,velvet goldmine,drama
+2338,i still know what you did last summer,horror mystery thriller
+2339,i ll be home for christmas,comedy romance
+2340,meet joe black,romance
+2342,hard core logo,comedy drama
+2344,runaway train,action adventure drama thriller
+2345,desert bloom,drama
+2346,stepford wives the,mystery sci fi thriller
+2347,pope of greenwich village the,drama
+2348,sid and nancy,drama
+2349,mona lisa,comedy thriller
+2350,heart condition,comedy
+2351,nights of cabiria,drama
+2352,big chill the,comedy drama
+2353,enemy of the state,action thriller
+2354,rugrats movie the,animation children comedy
+2355,bug s life a,adventure animation children comedy
+2356,celebrity,comedy
+2357,central station,drama
+2358,savior,drama war
+2359,waking ned devine,comedy
+2360,celebration the,drama
+2361,pink flamingos,comedy
+2362,glen or glenda,drama
+2363,godzilla,drama horror sci fi
+2364,godzilla the legend is reborn,action horror sci fi thriller
+2365,king kong vs godzilla,action sci fi
+2366,king kong,action adventure fantasy horror
+2367,king kong,adventure fantasy romance sci fi thriller
+2368,king kong lives,adventure sci fi
+2369,desperately seeking susan,comedy drama romance
+2370,emerald forest the,action adventure drama
+2371,fletch,comedy crime mystery
+2372,fletch lives,comedy
+2373,red sonja,action adventure fantasy
+2374,gung ho,comedy drama
+2375,money pit the,comedy
+2376,view to a kill a,action adventure thriller
+2377,lifeforce,horror sci fi
+2378,police academy,comedy crime
+2379,police academy their first assignment,comedy crime
+2380,police academy back in training,comedy crime
+2381,police academy citizens on patrol,comedy crime
+2382,police academy assignment miami beach,comedy crime
+2383,police academy city under siege,comedy crime
+2384,babe pig in the city,adventure children drama
+2385,home fries,comedy romance
+2386,jerry springer ringmaster,comedy drama
+2387,very bad things,comedy crime
+2389,psycho,crime horror thriller
+2390,little voice,comedy
+2391,simple plan a,crime drama thriller
+2392,jack frost,children comedy drama
+2393,star trek insurrection,action drama romance sci fi
+2394,prince of egypt the,animation musical
+2395,rushmore,comedy drama
+2396,shakespeare in love,comedy drama romance
+2398,miracle on street,comedy drama
+2399,santa claus the movie,adventure children fantasy
+2400,prancer,children drama fantasy
+2401,pale rider,western
+2402,rambo first blood part ii,action adventure thriller
+2403,first blood,action adventure drama thriller
+2404,rambo iii,action adventure thriller war
+2405,jewel of the nile the,action adventure comedy romance
+2406,romancing the stone,action adventure comedy romance
+2407,cocoon,comedy sci fi
+2408,cocoon the return,comedy sci fi
+2409,rocky ii,action drama
+2410,rocky iii,action drama
+2411,rocky iv,action drama
+2412,rocky v,action drama
+2413,clue,comedy crime mystery thriller
+2414,young sherlock holmes,action adventure children fantasy mystery thriller
+2415,violets are blue,drama romance
+2416,back to school,comedy
+2417,heartburn,comedy drama
+2418,nothing in common,comedy
+2419,extremities,drama thriller
+2420,karate kid the,drama
+2421,karate kid part ii the,action adventure drama
+2422,karate kid part iii the,action adventure children drama
+2423,christmas vacation,comedy
+2424,you ve got mail,comedy romance
+2425,general the,crime
+2426,theory of flight the,comedy drama romance
+2427,thin red line the,action drama war
+2428,faculty the,horror sci fi
+2429,mighty joe young,action adventure drama fantasy thriller
+2430,mighty joe young,adventure children drama
+2431,patch adams,comedy drama
+2432,stepmom,drama
+2433,civil action a,drama
+2434,down in the delta,drama
+2435,hurlyburly,drama
+2436,tea with mussolini,comedy drama war
+2437,wilde,drama
+2439,affliction,drama
+2440,another day in paradise,drama
+2441,hi lo country the,drama romance western
+2442,hilary and jackie,drama
+2443,playing by heart,drama romance
+2444,twenty four seven,comedy drama
+2445,at first sight,drama
+2446,in dreams,horror thriller
+2447,varsity blues,comedy drama
+2448,virus,horror sci fi
+2449,garbage pail kids movie the,adventure children comedy
+2450,howard the duck,adventure comedy sci fi
+2451,gate the,horror
+2453,boy who could fly the,drama fantasy
+2454,fly the,horror mystery sci fi
+2455,fly the,drama horror sci fi thriller
+2456,fly ii the,horror sci fi
+2457,running scared,action comedy
+2458,armed and dangerous,comedy crime
+2459,texas chainsaw massacre the,horror
+2460,texas chainsaw massacre the,horror
+2461,leatherface texas chainsaw massacre iii,comedy horror thriller
+2462,texas chainsaw massacre the next generation,horror
+2463,ruthless people,comedy
+2465,deadly friend,horror
+2467,name of the rose the,crime drama mystery thriller
+2468,jumpin jack flash,action comedy romance thriller
+2469,peggy sue got married,comedy drama
+2470,crocodile dundee,adventure comedy
+2471,crocodile dundee ii,action adventure comedy
+2472,tough guys,comedy
+2473,soul man,comedy
+2474,color of money the,drama
+2475,pick up,action mystery thriller
+2476,heartbreak ridge,action war
+2477,firewalker,adventure
+2478,three amigos,comedy western
+2479,gloria,drama thriller
+2481,my name is joe,drama romance
+2482,still crazy,comedy romance
+2483,day of the beast the,adventure comedy thriller
+2485,she s all that,comedy romance
+2488,peeping tom,drama horror thriller
+2489,spanish fly,drama
+2490,payback,action thriller
+2491,simply irresistible,comedy romance
+2492,dates,comedy romance
+2495,fantastic planet the,animation sci fi
+2496,blast from the past,comedy romance
+2497,message in a bottle,romance
+2498,my favorite martian,comedy sci fi
+2499,god said ha,comedy
+2500,jawbreaker,comedy
+2501,october sky,drama
+2502,office space,comedy crime
+2504,cigarettes,comedy drama
+2505,,drama mystery thriller
+2506,other sister the,comedy drama romance
+2507,breakfast of champions,comedy sci fi
+2511,long goodbye the,crime film noir
+2513,pet sematary,horror
+2514,pet sematary ii,comedy horror
+2515,children of the corn ii the final sacrifice,horror
+2516,children of the corn iii,horror
+2517,christine,horror
+2518,night shift,comedy
+2519,house on haunted hill,drama horror thriller
+2520,airport,drama
+2521,airport,action drama thriller
+2522,airport,drama
+2524,towering inferno the,action adventure drama thriller
+2525,alligator,action horror sci fi
+2527,westworld,action sci fi thriller western
+2528,logan s run,action adventure sci fi
+2529,planet of the apes,action drama sci fi
+2530,beneath the planet of the apes,action sci fi
+2531,battle for the planet of the apes,action sci fi
+2532,conquest of the planet of the apes,action sci fi
+2533,escape from the planet of the apes,action sci fi
+2534,avalanche,action
+2535,earthquake,action drama thriller
+2536,concorde airport the,drama
+2537,beyond the poseidon adventure,adventure
+2539,analyze this,comedy
+2540,corruptor the,action crime drama thriller
+2541,cruel intentions,drama
+2542,lock stock two smoking barrels,comedy crime thriller
+2544,school of flesh the,drama romance
+2545,relax it s just sex,comedy
+2546,deep end of the ocean the,drama
+2548,rage carrie the,horror
+2549,wing commander,action sci fi
+2550,haunting the,horror thriller
+2551,dead ringers,drama horror thriller
+2552,my boyfriend s back,comedy
+2553,village of the damned,horror sci fi thriller
+2554,children of the damned,horror sci fi thriller
+2555,baby geniuses,comedy
+2558,forces of nature,comedy romance
+2559,king and i the,animation children
+2560,ravenous,horror thriller
+2561,true crime,crime thriller
+2562,bandits,drama
+2563,dangerous beauty,drama
+2565,king and i the,drama musical romance
+2567,edtv,comedy
+2568,mod squad the,action crime
+2569,among giants,comedy drama romance
+2570,walk on the moon a,drama romance
+2571,matrix the,action sci fi thriller
+2572,things i hate about you,comedy romance
+2573,tango,drama musical
+2574,out of towners the,comedy
+2575,dreamlife of angels the,drama
+2577,metroland,comedy drama
+2579,following,crime mystery thriller
+2580,go,comedy crime
+2581,never been kissed,comedy romance
+2582,twin dragons,action comedy
+2583,cookie s fortune,comedy drama
+2585,lovers of the arctic circle the,drama romance
+2586,goodbye lover,comedy crime thriller
+2587,life,comedy crime drama
+2589,friends lovers,comedy drama romance
+2590,hideous kinky,drama
+2593,monster the,comedy
+2594,open your eyes,drama romance sci fi thriller
+2596,slc punk,comedy drama
+2597,lost found,comedy romance
+2598,pushing tin,comedy
+2599,election,comedy
+2600,existenz,action sci fi thriller
+2605,entrapment,crime thriller
+2606,idle hands,comedy horror
+2607,get real,drama romance
+2609,king of masks the,drama
+2610,three seasons,drama
+2611,winslow boy the,drama
+2612,mildred pierce,drama film noir
+2613,night of the comet,comedy horror sci fi
+2614,chopping mall,action horror sci fi
+2615,my science project,adventure sci fi
+2616,dick tracy,action crime
+2617,mummy the,action adventure comedy fantasy horror thriller
+2618,castle the,comedy
+2620,this is my father,drama romance
+2621,xiu xiu the sent down girl,drama
+2622,william shakespeare s a midsummer night s dream,comedy fantasy
+2624,after life,drama fantasy
+2625,black mask,action adventure crime sci fi thriller
+2626,edge of seventeen,comedy drama romance
+2628,star wars episode i the phantom menace,action adventure sci fi
+2629,love letter the,comedy romance
+2633,mummy the,horror romance
+2634,mummy the,horror
+2635,mummy s curse the,horror
+2636,mummy s ghost the,horror
+2637,mummy s hand the,horror
+2638,mummy s tomb the,horror
+2639,mommie dearest,drama
+2640,superman,action adventure sci fi
+2641,superman ii,action sci fi
+2642,superman iii,action adventure sci fi
+2643,superman iv the quest for peace,action adventure sci fi
+2644,dracula,horror
+2647,house of frankenstein,horror
+2648,frankenstein,drama horror sci fi
+2649,son of frankenstein,horror
+2650,ghost of frankenstein the,horror
+2651,frankenstein meets the wolf man,horror
+2652,curse of frankenstein the,horror
+2654,wolf man the,drama fantasy horror
+2655,howling ii your sister is a werewolf,horror
+2656,tarantula,horror sci fi
+2657,rocky horror picture show the,comedy horror musical sci fi
+2659,it came from hollywood,comedy documentary
+2660,thing from another world the,horror sci fi
+2661,it came from outer space,sci fi
+2662,war of the worlds the,action drama sci fi
+2663,it came from beneath the sea,sci fi
+2664,invasion of the body snatchers,horror sci fi thriller
+2665,earth vs the flying saucers,sci fi
+2666,it conquered the world,sci fi
+2667,mole people the,horror sci fi
+2668,swamp thing,horror sci fi
+2669,pork chop hill,war
+2670,run silent run deep,war
+2671,notting hill,comedy romance
+2672,thirteenth floor the,drama sci fi thriller
+2673,eternity and a day,drama
+2674,loss of sexual innocence the,drama fantasy
+2676,instinct,drama thriller
+2677,buena vista social club,documentary musical
+2678,desert blue,drama
+2681,free enterprise,comedy romance sci fi
+2682,limbo,drama
+2683,austin powers the spy who shagged me,action adventure comedy
+2686,red violin the,drama mystery
+2687,tarzan,adventure animation children drama
+2688,general s daughter the,crime drama mystery thriller
+2689,get bruce,documentary
+2690,ideal husband an,comedy romance
+2691,legend of the,drama
+2692,run lola run,action crime
+2693,trekkies,documentary
+2694,big daddy,comedy
+2695,boys the,drama
+2696,dinner game the,comedy
+2697,my son the fanatic,comedy drama romance
+2698,zone,sci fi
+2699,arachnophobia,comedy horror
+2700,south park bigger longer and uncut,animation comedy musical
+2701,wild wild west,action comedy sci fi western
+2702,summer of sam,drama
+2703,broken vessels,drama
+2706,american pie,comedy romance
+2707,arlington road,thriller
+2708,autumn tale an,romance
+2709,muppets from space,children comedy
+2710,blair witch project the,drama horror thriller
+2711,my life so far,drama
+2712,eyes wide shut,drama mystery thriller
+2713,lake placid,horror thriller
+2715,velocity of gary the,comedy romance
+2716,ghostbusters,action comedy sci fi
+2717,ghostbusters ii,comedy fantasy sci fi
+2718,drop dead gorgeous,comedy
+2719,haunting the,horror thriller
+2720,inspector gadget,action adventure children comedy
+2721,trick,comedy romance
+2722,deep blue sea,action horror sci fi thriller
+2723,mystery men,action comedy fantasy
+2724,runaway bride,comedy romance
+2725,twin falls idaho,drama
+2726,killing the,crime film noir
+2727,killer s kiss,crime film noir
+2728,spartacus,action drama romance war
+2729,lolita,drama romance
+2730,barry lyndon,drama romance war
+2731,blows the,crime drama
+2732,jules and jim,drama romance
+2733,vibes,adventure comedy romance
+2734,mosquito coast the,adventure drama thriller
+2735,golden child the,action adventure comedy fantasy mystery
+2736,brighton beach memoirs,comedy
+2737,assassination,action drama thriller
+2738,crimes of the heart,comedy drama
+2739,color purple the,drama
+2741,no mercy,action crime thriller
+2745,mission the,drama
+2746,little shop of horrors,comedy horror musical
+2747,little shop of horrors the,comedy horror
+2748,allan quatermain and the lost city of gold,action adventure comedy
+2749,morning after the,drama mystery
+2750,radio days,comedy drama
+2752,outrageous fortune,comedy mystery
+2753,bedroom window the,thriller
+2757,frances,drama
+2758,plenty,drama
+2759,dick,comedy
+2760,gambler the,drama
+2761,iron giant the,adventure animation children drama sci fi
+2762,sixth sense the,drama horror mystery
+2763,thomas crown affair the,action mystery
+2764,thomas crown affair the,crime drama romance thriller
+2765,acid house the,comedy drama
+2766,adventures of sebastian cole the,comedy drama
+2767,illuminata,comedy
+2769,yards the,crime drama
+2770,bowfinger,comedy
+2771,brokedown palace,drama
+2772,detroit rock city,comedy
+2774,better than chocolate,comedy romance
+2775,head on,drama
+2777,cobra,drama
+2778,never talk to strangers,crime drama romance thriller
+2779,heaven can wait,comedy
+2780,raven the,comedy horror
+2781,tingler the,horror
+2782,pit and the pendulum,horror
+2786,haunted honeymoon,comedy
+2787,cat s eye,horror
+2788,monty python s and now for something completely different,comedy
+2789,damien omen ii,horror
+2790,final conflict the,horror thriller
+2791,airplane,comedy
+2792,airplane ii the sequel,comedy
+2793,american werewolf in paris an,comedy horror romance thriller
+2794,european vacation,adventure comedy romance
+2795,national lampoon s vacation,comedy
+2796,funny farm,comedy
+2797,big,comedy drama fantasy romance
+2798,problem child,children comedy
+2799,problem child,comedy
+2800,little nemo adventures in slumberland,adventure animation children drama fantasy
+2801,oscar and lucinda,drama romance
+2802,tequila sunrise,action drama romance thriller
+2803,pelican brief the,crime drama mystery romance thriller
+2804,christmas story a,children comedy
+2805,mickey blue eyes,comedy romance
+2806,teaching mrs tingle,comedy thriller
+2807,universal soldier the return,action sci fi
+2808,universal soldier,action sci fi
+2809,love stinks,comedy
+2810,perfect blue,animation horror mystery thriller
+2812,in too deep,action thriller
+2815,iron eagle,action war
+2816,iron eagle ii,action war
+2817,aces iron eagle iii,action
+2818,iron eagle iv,action war
+2819,three days of the condor,drama mystery romance thriller
+2822,medicine man,adventure romance
+2826,warrior the,action adventure fantasy
+2827,astronaut s wife the,horror sci fi thriller
+2828,dudley do right,children comedy
+2829,muse the,comedy
+2830,cabaret balkan,drama
+2832,lost son the,drama
+2833,lucie aubrac,romance war
+2834,very thought of you the,comedy romance
+2835,chill factor,action adventure comedy thriller
+2836,outside providence,comedy
+2837,bedrooms hallways,comedy romance
+2840,stigmata,drama thriller
+2841,stir of echoes,horror mystery thriller
+2843,black cat white cat,comedy romance
+2844,minus man the,drama mystery
+2846,adventures of milo and otis the,adventure children comedy drama
+2847,only angels have wings,adventure drama romance
+2848,othello,drama
+2851,saturn,adventure sci fi thriller
+2852,soldier s story a,drama
+2856,i saw what you did,thriller
+2857,yellow submarine,adventure animation comedy fantasy musical
+2858,american beauty,drama romance
+2859,stop making sense,documentary musical
+2860,blue streak,comedy
+2861,for love of the game,comedy drama
+2862,caligula,drama
+2863,hard day s night a,adventure comedy musical
+2864,splendor,comedy
+2865,sugar town,comedy
+2866,buddy holly story the,drama
+2867,fright night,comedy horror thriller
+2868,fright night part ii,horror
+2870,barefoot in the park,comedy
+2871,deliverance,adventure drama thriller
+2872,excalibur,adventure fantasy
+2873,lulu on the bridge,drama mystery romance
+2874,pajama game the,comedy musical romance
+2875,sommersby,drama mystery romance
+2876,thumbelina,animation children fantasy
+2877,tommy,musical
+2878,hell night,horror
+2879,armour of god ii operation condor,action adventure comedy
+2880,armour of god,action adventure comedy
+2881,double jeopardy,action crime drama thriller
+2882,jakob the liar,drama
+2883,mumford,comedy drama
+2884,dog park,comedy romance
+2885,guinevere,drama romance
+2886,adventures of elmo in grouchland the,children comedy
+2887,simon sez,action comedy
+2888,drive me crazy,comedy romance
+2889,mystery alaska,comedy drama
+2890,three kings,action adventure comedy drama war
+2891,happy texas,comedy
+2893,plunkett macleane,action adventure drama
+2894,romance,drama romance
+2896,alvarez kelly,western
+2898,dark half the,horror mystery
+2899,gulliver s travels,adventure animation children
+2900,monkey shines,horror sci fi
+2901,phantasm,horror sci fi
+2902,psycho ii,horror mystery thriller
+2903,psycho iii,horror thriller
+2905,sanjuro,action adventure drama
+2906,random hearts,drama romance
+2907,superstar,comedy
+2908,boys don t cry,drama
+2912,limey the,crime drama thriller
+2915,risky business,comedy
+2916,total recall,action adventure sci fi thriller
+2917,body heat,crime thriller
+2918,ferris bueller s day off,comedy
+2919,year of living dangerously the,drama romance war
+2920,children of paradise,drama romance
+2921,high plains drifter,western
+2922,hang em high,crime drama western
+2924,drunken master,action comedy
+2925,conformist the,drama
+2926,hairspray,comedy drama
+2927,brief encounter,drama romance
+2928,razor s edge the,drama
+2929,reds,drama romance
+2931,time of the gypsies,comedy crime drama fantasy
+2932,days of heaven,drama
+2934,amor brujo el,drama musical
+2935,lady eve the,comedy romance
+2936,sullivan s travels,adventure comedy romance
+2937,palm beach story the,comedy
+2938,man facing southeast,drama sci fi
+2939,niagara,drama thriller
+2940,gilda,drama film noir mystery romance
+2941,south pacific,musical romance war
+2942,flashdance,drama romance
+2943,indochine,drama romance
+2944,dirty dozen the,action drama war
+2945,mike s murder,mystery
+2946,help,comedy musical
+2947,goldfinger,action adventure thriller
+2948,from russia with love,action adventure thriller
+2949,dr no,action adventure thriller
+2950,blue lagoon the,adventure drama romance
+2951,fistful of dollars a,action western
+2952,sydney,crime drama thriller
+2953,home alone lost in new york,children comedy
+2956,someone to watch over me,action crime thriller
+2959,fight club,action crime drama thriller
+2961,story of us the,comedy drama
+2962,fever pitch,comedy romance
+2964,julien donkey boy,drama
+2965,omega code the,action
+2966,straight story the,adventure drama
+2967,bad seed the,drama thriller
+2968,time bandits,adventure comedy fantasy sci fi
+2969,man and a woman a,drama romance
+2970,fitzcarraldo,adventure drama
+2971,all that jazz,drama fantasy musical
+2972,red sorghum,drama war
+2973,crimes and misdemeanors,comedy crime drama
+2974,bats,horror thriller
+2975,best man the,comedy drama
+2976,bringing out the dead,drama
+2977,crazy in alabama,comedy drama
+2978,three to tango,comedy romance
+2979,body shots,drama
+2983,ipcress file the,thriller
+2984,on any sunday,documentary
+2985,robocop,action crime drama sci fi thriller
+2986,robocop,action crime sci fi thriller
+2987,who framed roger rabbit,adventure animation children comedy crime fantasy mystery
+2988,melvin and howard,drama
+2989,for your eyes only,action adventure thriller
+2990,licence to kill,action adventure thriller
+2991,live and let die,action adventure thriller
+2992,rawhead rex,horror thriller
+2993,thunderball,action adventure thriller
+2995,house on haunted hill,horror thriller
+2996,music of the heart,drama
+2997,being john malkovich,comedy drama fantasy
+3000,princess mononoke,action adventure animation drama fantasy
+3003,train of life,comedy drama romance war
+3004,bachelor the,comedy romance
+3005,bone collector the,thriller
+3006,insider the,drama thriller
+3007,american movie,documentary
+3008,last night,drama sci fi
+3010,rosetta,drama
+3011,they shoot horses don t they,drama
+3013,bride of re animator,comedy horror
+3015,coma,thriller
+3016,creepshow,horror
+3017,creepshow,horror
+3018,re animator,comedy horror sci fi
+3019,drugstore cowboy,crime drama
+3020,falling down,action drama
+3021,funhouse the,horror
+3022,general the,comedy war
+3024,piranha,horror sci fi
+3026,slaughterhouse,comedy horror
+3028,taming of the shrew the,comedy
+3029,nighthawks,action drama
+3030,yojimbo,action adventure
+3031,repossessed,comedy
+3032,omega man the,action drama sci fi thriller
+3033,spaceballs,comedy sci fi
+3034,robin hood,adventure animation children comedy musical
+3035,mister roberts,comedy drama war
+3036,quest for fire,adventure drama
+3037,little big man,western
+3038,face in the crowd a,drama
+3039,trading places,comedy
+3040,meatballs,comedy
+3041,meatballs part ii,comedy
+3042,meatballs iii,comedy
+3043,meatballs,comedy
+3044,dead again,mystery romance thriller
+3045,peter s friends,comedy drama
+3046,incredibly true adventure of two girls in love the,comedy romance
+3047,experience preferred but not essential,drama
+3048,under the rainbow,comedy
+3049,how i won the war,comedy war
+3051,anywhere but here,comedy drama
+3052,dogma,adventure comedy fantasy
+3053,messenger the story of joan of arc the,drama war
+3054,pok mon the first movie,adventure animation children fantasy sci fi
+3055,felicia s journey,thriller
+3056,oxygen,crime drama thriller
+3058,ape the,horror sci fi
+3060,commitments the,comedy drama musical
+3061,holiday inn,comedy musical
+3062,longest day the,action drama war
+3063,poison ivy,drama thriller
+3064,poison ivy new seduction,drama thriller
+3066,tora tora tora,action drama war
+3067,women on the verge of a nervous breakdown,comedy drama
+3068,verdict the,drama mystery
+3069,effect of gamma rays on man in the moon marigolds the,drama
+3070,adventures of buckaroo banzai across the dimension the,adventure comedy sci fi
+3071,stand and deliver,comedy drama
+3072,moonstruck,comedy romance
+3074,jeremiah johnson,western
+3075,repulsion,drama horror
+3076,irma la douce,comedy
+3077,up,documentary
+3078,liberty heights,drama
+3079,mansfield park,comedy drama romance
+3081,sleepy hollow,fantasy horror mystery romance
+3082,world is not enough the,action adventure thriller
+3083,all about my mother,drama
+3086,babes in toyland,children comedy fantasy musical
+3087,scrooged,comedy fantasy romance
+3088,harvey,comedy fantasy
+3089,bicycle thieves,drama
+3090,matewan,drama
+3091,kagemusha,drama war
+3092,samurai,drama
+3093,mccabe mrs miller,drama western
+3094,maurice,drama romance
+3095,grapes of wrath the,drama
+3096,my man godfrey,comedy
+3097,shop around the corner the,comedy drama romance
+3098,natural the,drama
+3099,shampoo,comedy drama romance
+3100,river runs through it a,drama
+3101,fatal attraction,drama thriller
+3102,jagged edge,crime romance thriller
+3103,stanley iris,drama romance
+3104,midnight run,action comedy crime thriller
+3105,awakenings,drama mystery
+3106,come see the paradise,drama romance
+3107,backdraft,action drama
+3108,fisher king the,comedy drama fantasy romance
+3109,river the,drama
+3110,country,drama
+3111,places in the heart,drama
+3112,night mother,drama
+3113,end of days,action fantasy horror mystery thriller
+3114,toy story,adventure animation children comedy fantasy
+3115,flawless,drama
+3117,ride with the devil,drama romance war
+3120,distinguished gentleman the,comedy
+3121,hitch hiker the,drama film noir
+3122,santa fe trail,drama romance western
+3125,end of the affair the,drama
+3126,end of the affair the,drama
+3127,holy smoke,comedy drama
+3128,map of the world a,drama
+3129,sweet and lowdown,comedy drama
+3130,bonfire of the vanities,comedy crime drama
+3134,grand illusion,drama war
+3135,great santini the,drama
+3137,sea wolves the,action war
+3139,tarzan the fearless,action adventure
+3140,three ages,comedy
+3141,two jakes the,drama
+3142,rattle and hum,documentary musical
+3143,hell in the pacific,drama war
+3144,glass bottom boat the,comedy romance
+3145,cradle will rock,drama
+3146,deuce bigalow male gigolo,comedy
+3147,green mile the,crime drama
+3148,cider house rules the,drama
+3149,diamonds,mystery
+3150,war zone the,drama thriller
+3152,last picture show the,drama
+3153,voyage of sinbad the,action adventure fantasy
+3155,anna and the king,drama romance
+3156,bicentennial man,drama romance sci fi
+3157,stuart little,children comedy fantasy
+3158,emperor and the assassin the,drama
+3159,fantasia,animation children musical imax
+3160,magnolia,drama
+3162,simpatico,comedy drama
+3163,topsy turvy,comedy drama musical
+3165,boiling point,action drama
+3166,brenda starr,adventure
+3167,carnal knowledge,comedy drama
+3168,easy rider,adventure drama
+3169,the falcon and the snowman,crime drama thriller
+3171,room at the top,drama
+3173,any given sunday,drama
+3174,man on the moon,comedy drama
+3175,galaxy quest,adventure comedy sci fi
+3176,talented mr ripley the,drama mystery thriller
+3177,next friday,comedy
+3178,hurricane the,drama
+3179,angela s ashes,drama
+3181,titus,drama
+3182,mr death the rise and fall of fred a leuchter jr,documentary
+3183,third miracle the,drama
+3185,snow falling on cedars,drama
+3186,girl interrupted,drama
+3188,life and times of hank greenberg the,documentary
+3189,my dog skip,children drama
+3190,supernova,adventure sci fi thriller
+3194,way we were the,drama romance
+3196,stalag,drama war
+3197,presidio the,action crime romance thriller
+3198,papillon,crime drama
+3199,pal joey,comedy drama musical romance
+3200,last detail the,comedy drama
+3201,five easy pieces,drama
+3202,even dwarfs started small,drama horror
+3203,dead calm,thriller
+3204,boys from brazil the,action mystery thriller
+3206,against all odds,romance
+3207,snows of kilimanjaro the,adventure
+3208,loaded weapon,action comedy
+3210,fast times at ridgemont high,comedy drama romance
+3211,cry in the dark a,drama
+3213,batman mask of the phantasm,animation children
+3214,american flyers,drama
+3217,star is born a,drama
+3219,pacific heights,mystery thriller
+3221,draughtsman s contract the,drama
+3222,carmen,drama
+3224,woman in the dunes,drama
+3225,down to you,comedy romance
+3229,another man s poison,crime drama
+3230,odessa file the,thriller
+3232,seven chances,comedy
+3235,where the buffalo roam,comedy
+3238,eye of the beholder,thriller
+3240,big tease the,comedy
+3243,encino man,comedy
+3244,goodbye girl the,comedy romance
+3245,i am cuba,drama
+3246,malcolm x,drama
+3247,sister act,comedy crime
+3248,sister act back in the habit,comedy
+3249,hand that rocks the cradle the,drama thriller
+3250,alive,drama
+3251,agnes of god,drama mystery
+3252,scent of a woman,drama
+3253,wayne s world,comedy
+3254,wayne s world,comedy
+3255,league of their own a,comedy drama
+3256,patriot games,action crime drama thriller
+3257,bodyguard the,drama romance thriller
+3258,death becomes her,comedy fantasy
+3259,far and away,adventure drama romance
+3260,howards end,drama
+3261,singles,comedy drama romance
+3262,twin peaks fire walk with me,crime drama mystery thriller
+3263,white men can t jump,comedy drama
+3264,buffy the vampire slayer,action comedy horror
+3265,hard boiled,action crime drama thriller
+3266,man bites dog,comedy crime drama thriller
+3267,mariachi el,action crime thriller western
+3268,stop or my mom will shoot,action comedy
+3269,forever young,drama romance sci fi
+3270,cutting edge the,comedy drama romance
+3271,of mice and men,drama
+3272,bad lieutenant,crime drama
+3273,scream,comedy horror mystery thriller
+3274,single white female,drama thriller
+3275,boondock saints the,action crime drama thriller
+3276,gun shy,comedy
+3281,brandon teena story the,documentary
+3282,different for girls,comedy
+3284,they might be giants,comedy mystery romance
+3285,beach the,adventure drama
+3286,snow day,comedy
+3287,tigger movie the,animation children
+3289,not one less,drama
+3292,big combo the,film noir
+3296,to sir with love,drama
+3298,boiler room,crime drama thriller
+3300,pitch black,horror sci fi thriller
+3301,whole nine yards the,comedy crime
+3302,beautiful people,comedy
+3303,black tar heroin the dark end of the street,documentary
+3304,blue collar,crime drama
+3307,city lights,comedy drama romance
+3308,flamingo kid the,comedy drama
+3310,kid the,comedy drama
+3311,man from laramie the,western
+3313,class reunion,comedy
+3316,reindeer games,action thriller
+3317,wonder boys,comedy drama
+3318,deterrence,drama thriller
+3320,mifune s last song,comedy drama romance
+3324,drowning mona,comedy
+3325,next best thing the,comedy drama
+3326,what planet are you from,comedy sci fi
+3327,beyond the mat,documentary
+3328,ghost dog the way of the samurai,crime drama
+3329,year my voice broke the,drama
+3330,splendor in the grass,drama romance
+3331,my tutor,drama
+3333,killing of sister george the,drama
+3334,key largo,crime drama film noir thriller
+3338,for all mankind,documentary
+3339,cross of iron,war
+3340,bride of the monster,horror sci fi
+3341,born yesterday,comedy
+3342,birdy,drama war
+3343,and god created woman,comedy drama romance
+3345,charlie the lonesome cougar,adventure children
+3347,never cry wolf,adventure drama
+3350,raisin in the sun a,drama
+3354,mission to mars,sci fi
+3355,ninth gate the,fantasy horror mystery thriller
+3357,east west,drama romance
+3358,defending your life,comedy drama fantasy romance
+3359,breaking away,comedy drama
+3360,hoosiers,drama romance
+3361,bull durham,comedy drama romance
+3362,dog day afternoon,crime drama
+3363,american graffiti,comedy drama
+3364,asphalt jungle the,crime film noir
+3365,searchers the,drama western
+3368,big country the,romance western
+3370,betrayed,drama thriller
+3371,bound for glory,drama
+3372,bridge at remagen the,action war
+3373,buck and the preacher,western
+3374,daughters of the dust,drama
+3375,destination moon,sci fi
+3377,hangmen also die,drama war
+3379,on the beach,drama
+3380,railroaded,film noir
+3384,taking of pelham one two three the,action crime
+3385,volunteers,comedy
+3386,jfk,drama mystery thriller
+3387,who s harry crumb,comedy mystery
+3388,harry and the hendersons,children comedy
+3390,shanghai surprise,adventure crime drama romance
+3391,who s that girl,comedy
+3392,she devil,comedy
+3393,date with an angel,comedy fantasy romance
+3394,blind date,comedy romance
+3395,nadine,comedy
+3396,muppet movie the,adventure children comedy musical
+3397,great muppet caper the,children comedy
+3398,muppets take manhattan the,children comedy musical
+3399,sesame street presents follow that bird,children comedy
+3400,we re back a dinosaur s story,adventure animation children fantasy
+3401,baby secret of the lost legend,adventure sci fi
+3402,turtle diary,comedy drama romance
+3403,raise the titanic,drama thriller
+3404,titanic,action drama
+3405,night to remember a,action drama
+3406,captain horatio hornblower r n,action adventure drama war
+3408,erin brockovich,drama
+3409,final destination,drama thriller
+3412,bear the,adventure children drama
+3413,impact,crime drama
+3414,love is a many splendored thing,drama romance war
+3415,mirror the,drama
+3417,crimson pirate the,adventure comedy
+3418,thelma louise,adventure crime drama
+3420,and justice for all,drama thriller
+3421,animal house,comedy
+3422,she s gotta have it,comedy romance
+3423,school daze,drama
+3424,do the right thing,drama
+3425,mo better blues,drama musical
+3426,jungle fever,drama romance
+3427,coogan s bluff,crime
+3428,champ the,drama
+3429,creature comforts,animation comedy
+3430,death wish,action crime drama
+3431,death wish,action drama
+3432,death wish,action drama
+3433,death wish the crackdown,action drama
+3434,death wish the face of death,action drama
+3435,double indemnity,crime drama film noir
+3436,dying young,drama romance
+3437,cool as ice,drama
+3438,teenage mutant ninja turtles,action children comedy fantasy sci fi
+3439,teenage mutant ninja turtles ii the secret of the ooze,action children fantasy
+3440,teenage mutant ninja turtles iii,action adventure children comedy fantasy
+3441,red dawn,action drama war
+3442,band of the hand,action crime drama
+3443,born american,action drama thriller
+3444,bloodsport,action
+3445,eyes of laura mars,mystery thriller
+3446,funny bones,comedy drama
+3447,good earth the,drama
+3448,good morning vietnam,comedy drama war
+3449,good mother the,drama
+3450,grumpy old men,comedy
+3451,guess who s coming to dinner,drama
+3452,romeo must die,action crime romance thriller
+3453,here on earth,drama romance
+3454,whatever it takes,comedy romance
+3456,color of paradise the,drama
+3457,waking the dead,drama thriller
+3459,gothic,drama horror
+3461,lord of the flies,adventure drama thriller
+3462,modern times,comedy drama romance
+3466,heart and souls,comedy fantasy
+3467,hud,drama western
+3468,hustler the,drama
+3469,inherit the wind,drama
+3470,dersu uzala,adventure drama
+3471,close encounters of the third kind,adventure drama sci fi
+3473,jonah who will be in the year,comedy
+3474,retroactive,sci fi thriller
+3475,place in the sun a,drama romance
+3476,jacob s ladder,horror mystery
+3477,empire records,comedy drama
+3478,bamba la,drama
+3479,ladyhawke,adventure fantasy romance
+3480,lucas,drama romance
+3481,high fidelity,comedy drama romance
+3483,road to el dorado the,animation children
+3484,skulls the,thriller
+3487,el dorado,western
+3489,hook,adventure comedy fantasy
+3490,horror express,horror
+3491,my chauffeur,comedy
+3492,son of the sheik the,adventure comedy romance
+3494,true grit,adventure drama western
+3496,madame sousatzka,drama
+3497,max dugan returns,comedy
+3498,midnight express,drama
+3499,misery,drama horror thriller
+3500,mr saturday night,comedy drama
+3501,murphy s romance,comedy romance
+3502,my life,drama
+3503,solaris,drama mystery sci fi
+3504,network,comedy drama
+3505,no way out,drama mystery thriller
+3506,north dallas forty,comedy drama
+3507,odd couple the,comedy
+3508,outlaw josey wales the,action adventure drama thriller western
+3510,frequency,drama thriller
+3512,return to me,drama romance
+3513,rules of engagement,drama thriller
+3515,me myself i,comedy romance
+3516,bell book and candle,comedy fantasy romance
+3518,end of violence the,drama thriller
+3519,force from navarone,action drama war
+3520,how to stuff a wild bikini,comedy
+3521,mystery train,comedy drama
+3524,arthur,comedy romance
+3525,bachelor party,comedy
+3526,parenthood,comedy drama
+3527,predator,action sci fi thriller
+3528,prince of tides the,drama romance
+3529,postman always rings twice the,crime thriller
+3531,all the vermeers in new york,comedy drama romance
+3534,days,drama
+3535,american psycho,crime horror mystery thriller
+3536,keeping the faith,comedy drama romance
+3537,where the money is,comedy drama
+3538,east is east,comedy
+3539,filth and the fury the,documentary
+3540,passion of mind,drama mystery romance
+3543,diner,comedy drama
+3545,cabaret,drama musical
+3546,what ever happened to baby jane,drama horror thriller
+3547,prick up your ears,comedy drama
+3548,auntie mame,comedy drama
+3549,guys and dolls,comedy musical romance
+3550,hunger the,horror
+3551,marathon man,crime drama thriller
+3552,caddyshack,comedy
+3553,gossip,drama thriller
+3554,love and basketball,drama romance
+3555,,action thriller war
+3556,virgin suicides the,drama romance
+3557,jennifer,mystery thriller
+3559,limelight,comedy drama romance
+3564,flintstones in viva rock vegas the,children comedy
+3565,where the heart is,comedy drama
+3566,big kahuna the,comedy drama
+3567,bossa nova,comedy drama romance
+3569,idiots the,comedy drama
+3571,time code,comedy drama
+3572,carnosaur,horror sci fi
+3573,carnosaur,horror sci fi
+3574,carnosaur primal species,horror sci fi
+3576,hidden the,action horror sci fi
+3577,two moon junction,drama romance
+3578,gladiator,action adventure drama
+3580,up at the villa,drama
+3581,human traffic,comedy
+3584,breathless,action drama romance thriller
+3585,great locomotive chase the,adventure war
+3588,king of marvin gardens the,crime drama
+3590,lords of flatbush the,comedy drama
+3591,mr mom,comedy drama
+3593,battlefield earth,action sci fi
+3594,center stage,drama musical
+3596,screwed,comedy
+3597,whipped,comedy
+3598,hamlet,crime drama romance thriller
+3599,anchors aweigh,comedy musical
+3600,blue hawaii,comedy musical
+3604,gypsy,musical
+3605,king creole,crime drama musical
+3606,on the town,comedy musical romance
+3608,pee wee s big adventure,adventure comedy
+3610,roustabout,drama musical romance
+3611,saludos amigos,animation children comedy
+3612,slipper and the rose the,adventure musical romance
+3613,things change,comedy
+3614,honeymoon in vegas,comedy romance
+3615,dinosaur,adventure animation children
+3616,loser,comedy romance
+3617,road trip,comedy
+3618,small time crooks,comedy crime
+3619,hollywood knights the,comedy
+3620,myth of fingerprints the,comedy drama
+3621,possession,drama horror
+3622,twelve chairs the,comedy
+3623,mission impossible ii,action adventure thriller
+3624,shanghai noon,action adventure comedy western
+3627,carnival of souls,horror thriller
+3628,flying tigers,action drama romance war
+3629,gold rush the,adventure comedy romance
+3633,on her majesty s secret service,action adventure romance thriller
+3634,seven days in may,thriller
+3635,spy who loved me the,action adventure thriller
+3638,moonraker,action adventure sci fi thriller
+3639,man with the golden gun the,action adventure thriller
+3640,king in new york a,comedy drama
+3643,fighting seabees the,action drama war
+3644,dark command,western
+3645,cleo from to,drama
+3646,big momma s house,comedy
+3649,american gigolo,drama
+3653,endless summer the,documentary
+3654,guns of navarone the,action adventure drama war
+3655,blow out,drama
+3658,quatermass and the pit,horror sci fi
+3660,puppet master,horror sci fi thriller
+3661,puppet master ii,horror sci fi thriller
+3662,puppet master iii toulon s revenge,horror sci fi thriller
+3663,puppet master,horror sci fi thriller
+3664,puppet master the final chapter,horror sci fi thriller
+3665,curse of the puppet master,horror sci fi thriller
+3668,romeo and juliet,drama romance
+3669,stay tuned,comedy
+3670,story of g i joe,war
+3671,blazing saddles,comedy western
+3672,benji,adventure children
+3673,benji the hunted,adventure children
+3675,white christmas,comedy musical romance
+3676,eraserhead,drama horror
+3677,baraka,documentary
+3678,man with the golden arm the,drama
+3679,decline of western civilization the,documentary musical
+3681,for a few dollars more,action drama thriller western
+3682,magnum force,action crime drama thriller
+3683,blood simple,crime drama film noir
+3684,fabulous baker boys the,drama romance
+3685,prizzi s honor,comedy drama romance
+3686,flatliners,horror sci fi thriller
+3688,porky s,comedy
+3689,porky s ii the next day,comedy
+3690,porky s revenge,comedy
+3692,class of nuke em high,comedy horror
+3693,toxic avenger the,comedy horror
+3694,toxic avenger part ii the,comedy horror
+3695,toxic avenger part iii the last temptation of toxie the,comedy horror
+3696,night of the creeps,comedy horror sci fi thriller
+3697,predator,action sci fi thriller
+3698,running man the,action sci fi
+3699,starman,adventure drama romance sci fi
+3700,brother from another planet the,drama sci fi
+3701,alien nation,crime drama sci fi thriller
+3702,mad max,action adventure sci fi
+3703,road warrior the,action adventure sci fi
+3704,mad max beyond thunderdome,action adventure sci fi
+3705,bird on a wire,action comedy romance
+3706,angel heart,film noir horror mystery thriller
+3707,weeks,drama romance
+3708,firestarter,horror thriller
+3709,sleepwalkers,horror
+3710,action jackson,action comedy crime thriller
+3712,soapdish,comedy
+3713,long walk home the,drama
+3715,burglar,comedy crime
+3716,fatal beauty,action comedy crime drama
+3717,gone in seconds,action crime
+3718,american pimp,documentary
+3719,love s labour s lost,comedy romance
+3720,sunshine,drama
+3723,hamlet,drama
+3724,coming home,drama war
+3726,assault on precinct,action thriller
+3727,near dark,horror western
+3728,one false move,crime drama film noir thriller
+3729,shaft,action crime drama thriller
+3730,conversation the,drama mystery
+3731,cutter s way,drama thriller
+3732,fury the,horror
+3733,paper chase the,drama
+3734,prince of the city,drama
+3735,serpico,crime drama
+3736,ace in the hole,drama
+3737,lonely are the brave,drama western
+3738,sugarland express the,drama
+3739,trouble in paradise,comedy romance
+3740,big trouble in little china,action adventure comedy fantasy
+3741,badlands,crime drama thriller
+3742,battleship potemkin,drama war
+3743,boys and girls,comedy romance
+3744,shaft,action crime thriller
+3745,titan a e,action adventure animation children sci fi
+3747,jesus son,drama
+3751,chicken run,animation children comedy
+3752,me myself irene,adventure comedy
+3753,patriot the,action drama war
+3754,adventures of rocky and bullwinkle the,adventure animation children comedy fantasy
+3755,perfect storm the,drama thriller
+3756,golden bowl the,drama
+3758,communion,drama sci fi thriller
+3759,fun and fancy free,animation children musical
+3760,kentucky fried movie the,comedy
+3761,bound by honor,action crime drama thriller
+3763,f x,action crime thriller
+3764,,action crime thriller
+3765,hot spot the,crime drama romance
+3766,missing in action,action war
+3767,missing in action the beginning,action war
+3768,braddock missing in action iii,action war
+3769,thunderbolt and lightfoot,action
+3770,dreamscape,horror sci fi thriller
+3771,the golden voyage of sinbad,action adventure fantasy
+3773,house party,comedy
+3774,house party,comedy drama romance
+3775,make mine music,animation children musical
+3776,melody time,animation children musical
+3780,rocketship x m,sci fi
+3781,shaft in africa,action crime
+3783,croupier,crime drama
+3784,kid the,comedy fantasy
+3785,scary movie,comedy horror
+3786,but i m a cheerleader,comedy
+3787,shower,comedy
+3788,blow up,drama mystery
+3789,pawnbroker the,drama
+3790,groove,drama
+3791,footloose,drama
+3792,duel in the sun,western
+3793,x men,action adventure sci fi
+3796,wisdom of crocodiles the,romance thriller
+3797,in crowd the,thriller
+3798,what lies beneath,drama horror mystery
+3799,pok mon the movie,animation children
+3801,anatomy of a murder,drama mystery
+3802,freejack,action sci fi
+3804,h o t s,comedy
+3806,mackenna s gold,western
+3807,sinbad and the eye of the tiger,adventure fantasy
+3808,two women,drama war
+3809,what about bob,comedy
+3810,white sands,drama thriller
+3811,breaker morant,drama war
+3812,everything you always wanted to know about sex but were afraid to ask,comedy
+3813,interiors,drama
+3814,love and death,comedy
+3816,official story the,drama
+3819,tampopo,comedy
+3820,thomas and the magic railroad,children
+3821,nutty professor ii the klumps,comedy
+3822,girl on the bridge the,drama romance
+3823,wonderland,drama
+3824,autumn in new york,drama romance
+3825,coyote ugly,comedy drama romance
+3826,hollow man,horror sci fi thriller
+3827,space cowboys,action adventure comedy sci fi
+3830,psycho beach party,comedy horror thriller
+3831,saving grace,comedy
+3833,brain that wouldn t die the,horror sci fi
+3834,bronco billy,adventure drama romance
+3835,crush the,thriller
+3836,kelly s heroes,action comedy war
+3837,phantasm ii,action fantasy horror sci fi thriller
+3838,phantasm iii lord of the dead,horror
+3839,phantasm iv oblivion,horror
+3840,pumpkinhead,horror
+3841,air america,action comedy
+3843,sleepaway camp,horror
+3844,steel magnolias,drama
+3845,and god created woman,drama
+3847,ilsa she wolf of the ss,horror
+3848,silent fall,drama thriller
+3849,spiral staircase the,thriller
+3850,whatever happened to aunt alice,crime thriller
+3851,i m the one that i want,comedy
+3852,tao of steve the,comedy
+3855,affair of love an,drama romance
+3857,bless the child,thriller
+3858,cecil b demented,comedy
+3859,eyes of tammy faye the,documentary
+3861,replacements the,comedy
+3863,cell the,drama horror thriller
+3864,godzilla,action adventure sci fi
+3865,original kings of comedy the,comedy documentary
+3868,naked gun from the files of police squad the,action comedy crime romance
+3869,naked gun the smell of fear the,comedy
+3870,our town,drama
+3871,shane,drama western
+3872,suddenly last summer,drama
+3873,cat ballou,comedy western
+3877,supergirl,action adventure fantasy
+3878,x the unknown,horror sci fi
+3879,art of war the,action thriller
+3882,bring it on,comedy
+3888,skipped parts,drama romance
+3889,highlander endgame,action adventure fantasy
+3890,back stage,documentary
+3892,anatomy,horror
+3893,nurse betty,comedy crime drama romance thriller
+3894,solas,drama
+3895,watcher the,crime thriller
+3896,way of the gun the,crime thriller
+3897,almost famous,drama
+3898,bait,action comedy
+3901,duets,comedy drama
+3902,goya in bordeaux,drama
+3903,urbania,drama
+3905,specials the,comedy
+3906,under suspicion,crime thriller
+3908,urban legends final cut,horror
+3909,woman on top,comedy romance
+3910,dancer in the dark,drama musical
+3911,best in show,comedy
+3913,barenaked in america,documentary
+3914,broken hearts club the,drama
+3915,girlfight,drama
+3916,remember the titans,drama
+3917,hellraiser,horror
+3918,hellbound hellraiser ii,horror
+3919,hellraiser iii hell on earth,horror
+3923,return of the fly,horror sci fi
+3925,stranger than paradise,comedy drama
+3926,voyage to the bottom of the sea,adventure sci fi
+3927,fantastic voyage,adventure sci fi
+3928,abbott and costello meet frankenstein,comedy horror
+3929,bank dick the,comedy
+3930,creature from the black lagoon the,adventure horror sci fi
+3932,invisible man the,horror sci fi
+3936,phantom of the opera,horror musical thriller
+3937,runaway,sci fi thriller
+3938,slumber party massacre the,horror
+3941,sorority house massacre,horror
+3943,bamboozled,comedy
+3944,bootmen,comedy drama
+3945,digimon the movie,adventure animation children
+3946,get carter,action drama thriller
+3947,get carter,action crime drama thriller
+3948,meet the parents,comedy
+3949,requiem for a dream,drama
+3950,tigerland,drama
+3952,contender the,drama thriller
+3953,dr t and the women,comedy romance
+3955,ladies man the,comedy
+3956,lost souls,drama horror thriller
+3957,billy jack,action drama
+3958,billy jack goes to washington,drama
+3959,time machine the,action adventure sci fi
+3960,haunted,drama thriller
+3961,ghoulies,horror
+3962,ghoulies ii,comedy horror
+3963,unsinkable molly brown the,musical
+3964,adventures of ichabod and mr toad the,animation children
+3965,strange love of martha ivers the,drama film noir
+3966,detour,crime film noir
+3967,billy elliot,drama
+3968,bedazzled,comedy
+3969,pay it forward,drama
+3970,beyond the,horror
+3972,legend of drunken master the,action comedy
+3973,book of shadows blair witch,crime horror mystery thriller
+3975,lucky numbers,comedy drama
+3977,charlie s angels,action comedy
+3978,legend of bagger vance the,drama romance
+3979,little nicky,comedy
+3980,men of honor,drama
+3981,red planet,action sci fi thriller
+3982,what s cooking,drama
+3983,you can count on me,drama romance
+3984,diamonds are forever,action adventure thriller
+3985,eagle has landed the,drama war
+3986,day the,action sci fi thriller
+3987,bounce,drama romance
+3988,how the grinch stole christmas,children comedy fantasy
+3989,one day in september,documentary
+3990,rugrats in paris the movie,animation children comedy
+3991,dalmatians,children comedy
+3992,mal na,drama romance war
+3993,quills,drama romance
+3994,unbreakable,drama sci fi
+3996,crouching tiger hidden dragon,action drama romance
+3997,dungeons dragons,action adventure comedy fantasy
+3998,proof of life,drama
+3999,vertical limit,action adventure
+4000,bounty the,adventure drama
+4002,planes trains automobiles,comedy
+4003,she s having a baby,comedy
+4005,living daylights the,action adventure thriller
+4006,transformers the movie,adventure animation children sci fi
+4007,wall street,drama
+4008,born on the fourth of july,drama war
+4009,talk radio,drama
+4010,brewster s millions,comedy
+4011,snatch,comedy crime thriller
+4012,punchline,comedy drama
+4014,chocolat,drama romance
+4015,dude where s my car,comedy sci fi
+4016,emperor s new groove the,adventure animation children comedy fantasy
+4017,pollock,drama
+4018,what women want,comedy romance
+4019,finding forrester,drama
+4020,gift the,thriller
+4021,before night falls,drama
+4022,cast away,drama
+4023,family man the,comedy drama romance
+4024,house of mirth the,romance
+4025,miss congeniality,comedy crime
+4027,o brother where art thou,adventure comedy crime
+4028,songcatcher,drama
+4029,state and main,comedy drama
+4030,dracula,horror
+4031,all the pretty horses,drama romance western
+4032,everlasting piece an,comedy
+4033,thirteen days,drama thriller war
+4034,traffic,crime drama thriller
+4035,claim the,romance western
+4036,shadow of the vampire,drama horror
+4037,house of games,crime film noir mystery thriller
+4038,kill me again,crime drama thriller
+4039,annie,children musical
+4040,don t tell mom the babysitter s dead,comedy
+4041,officer and a gentleman an,drama romance
+4042,alamo the,action drama war western
+4043,at close range,crime drama
+4045,breakheart pass,western
+4046,friendly persuasion,drama
+4047,gettysburg,drama war
+4052,antitrust,crime drama thriller
+4053,double take,action comedy
+4054,save the last dance,drama romance
+4055,panic,drama
+4056,pledge the,crime drama mystery thriller
+4057,kids world,adventure children comedy
+4061,the man in the moon,drama romance
+4062,mystic pizza,comedy drama romance
+4063,prelude to a kiss,comedy drama romance
+4064,coffy,action crime thriller
+4065,foxy brown,action crime drama
+4066,i m gonna git you sucka,action comedy
+4067,untamed heart,drama romance
+4068,sugar spice,comedy
+4069,wedding planner the,comedy romance
+4077,with a friend like harry,drama thriller
+4078,amazing grace and chuck,drama
+4079,amazon women on the moon,comedy sci fi
+4080,baby boom,comedy
+4081,back to the beach,comedy
+4082,barfly,comedy drama romance
+4084,beverly hills cop ii,action comedy crime thriller
+4085,beverly hills cop,action comedy crime drama
+4086,big easy the,action crime mystery romance thriller
+4090,brave little toaster the,animation children
+4091,can t buy me love,comedy romance
+4092,cherry,romance sci fi
+4093,cop,thriller
+4095,cry freedom,drama
+4096,curse the,horror sci fi
+4097,dead of winter,horror thriller
+4098,dead the,drama
+4100,disorderlies,comedy
+4102,eddie murphy raw,comedy documentary
+4103,empire of the sun,action adventure drama war
+4104,ernest goes to camp,comedy
+4105,evil dead the,fantasy horror thriller
+4106,extreme prejudice,action crime drama thriller western
+4108,five corners,drama
+4109,flowers in the attic,drama thriller
+4110,fourth protocol the,thriller
+4111,gardens of stone,drama war
+4116,hollywood shuffle,comedy
+4117,hope and glory,drama
+4119,housekeeping,comedy drama
+4121,innerspace,action adventure comedy sci fi
+4123,ishtar,comedy
+4124,jaws the revenge,horror thriller
+4125,leonard part,comedy sci fi
+4126,less than zero,drama
+4127,like father like son,comedy
+4128,lost boys the,comedy horror thriller
+4129,made in heaven,fantasy romance
+4130,maid to order,comedy fantasy
+4131,making mr right,comedy romance sci fi
+4132,mannequin,comedy romance
+4133,masters of the universe,action adventure fantasy sci fi
+4135,monster squad the,adventure comedy horror
+4136,month in the country a,drama
+4137,morgan stewart s coming home,comedy
+4138,my demon lover,comedy horror
+4139,no man s land,crime drama
+4141,head over heels,comedy romance
+4142,left behind the movie,action adventure drama thriller
+4143,valentine,horror mystery
+4144,in the mood for love,drama romance
+4146,million dollar hotel the,drama mystery romance
+4147,nico and dani,comedy drama romance
+4148,hannibal,horror thriller
+4149,saving silverman,comedy romance
+4150,signs wonders,drama
+4151,taste of others the,comedy drama romance
+4152,vatel,drama
+4153,down to earth,comedy fantasy romance
+4154,recess school s out,animation children
+4155,sweet november,drama romance
+4157,price of milk the,comedy drama fantasy romance
+4158,monkeybone,animation comedy fantasy
+4159,miles to graceland,action thriller
+4160,widow of st pierre the,drama romance
+4161,mexican the,action comedy
+4162,see spot run,comedy
+4166,series the contenders,action drama
+4167,minutes,thriller
+4168,get over it,comedy romance
+4169,blow dry,comedy
+4172,simon magus,drama fantasy mystery romance
+4174,avalon,drama
+4178,of mice and men,drama
+4179,pixote,drama
+4182,tuff turf,drama
+4183,unbelievable truth the,comedy drama
+4184,bishop s wife the,comedy drama romance
+4186,fortune cookie the,comedy drama romance
+4187,lilies of the field,drama
+4188,hans christian andersen,children musical
+4189,greatest story ever told the,drama
+4190,elmer gantry,drama
+4191,alfie,comedy drama romance
+4192,demetrius and the gladiators,drama
+4193,fantasticks the,musical
+4194,i know where i m going,drama romance war
+4195,abominable dr phibes the,horror mystery
+4197,real life,comedy
+4199,death warrant,action
+4200,double impact,action
+4201,end the,comedy
+4203,harley davidson and the marlboro man,action crime drama
+4205,mermaids,comedy drama romance
+4206,mighty quinn the,crime mystery
+4207,navy seals,action adventure war
+4210,manhunter,action crime drama horror thriller
+4211,reversal of fortune,drama
+4212,death on the nile,crime mystery
+4213,deepstar six,horror sci fi thriller
+4214,revenge of the nerds,comedy
+4215,revenge of the nerds ii nerds in paradise,comedy
+4216,longtime companion,drama
+4217,little girls,documentary
+4218,river s edge,crime drama
+4219,girls just want to have fun,comedy
+4220,longest yard the,comedy
+4221,necessary roughness,comedy
+4223,enemy at the gates,drama war
+4224,exit wounds,action thriller
+4225,dish the,comedy
+4226,memento,mystery thriller
+4228,heartbreakers,comedy crime romance
+4229,say it isn t so,comedy romance
+4231,someone like you,comedy romance
+4232,spy kids,action adventure children comedy
+4233,tomcats,comedy
+4234,tailor of panama the,drama thriller
+4235,amores perros,drama thriller
+4237,gleaners i the,documentary
+4238,along came a spider,action crime mystery thriller
+4239,blow,crime drama
+4240,just visiting,comedy fantasy
+4241,pok mon the movie,animation children
+4245,shadow magic,drama romance
+4246,bridget jones s diary,comedy drama romance
+4247,joe dirt,adventure comedy mystery romance
+4248,josie and the pussycats,comedy
+4251,chopper,drama thriller
+4253,lakeboat,comedy
+4254,crocodile dundee in los angeles,comedy drama
+4255,freddy got fingered,comedy
+4256,center of the world the,drama
+4262,scarface,action crime drama
+4263,days of wine and roses,drama
+4265,driven,action thriller
+4266,forsaken the,horror
+4267,one night at mccool s,comedy
+4268,town country,comedy
+4270,mummy returns the,action adventure comedy thriller
+4273,under the sand,drama
+4274,cleopatra,drama romance
+4275,krull,action adventure fantasy sci fi
+4276,lost in america,comedy
+4277,lost world the,adventure sci fi
+4278,triumph of the will,documentary
+4279,true believer,crime
+4280,world according to garp the,comedy drama romance
+4281,candy,comedy
+4282,fellini satyricon,drama fantasy
+4283,fellini s roma,drama
+4284,frankie and johnny,comedy
+4285,frankie and johnny,comedy romance
+4286,home of our own a,drama
+4287,paris when it sizzles,comedy romance
+4288,pola x,drama romance
+4290,for the boys,comedy drama musical
+4291,nine to five,comedy crime
+4292,norma rae,drama
+4293,summer rental,comedy
+4294,fingers of dr t the,children fantasy musical
+4296,love story,drama romance
+4298,rififi,crime film noir thriller
+4299,knight s tale a,action comedy romance
+4300,bread and roses,drama
+4302,king is alive the,drama
+4304,startup com,documentary
+4305,angel eyes,romance thriller
+4306,shrek,adventure animation children comedy fantasy romance
+4307,fast food fast women,comedy romance
+4308,moulin rouge,drama musical romance
+4310,pearl harbor,action drama romance war
+4313,man who cried the,drama
+4317,love potion,comedy romance
+4318,postcards from the edge,comedy drama
+4319,apache,western
+4320,buffalo bill and the indians or sitting bull s history lesson,comedy western
+4321,city slickers,comedy western
+4322,eight men out,drama
+4323,horse soldiers the,adventure war western
+4326,mississippi burning,crime drama thriller
+4327,magnificent seven the,adventure western
+4329,rio bravo,western
+4331,semi tough,comedy
+4332,suspect,crime drama thriller
+4333,throw momma from the train,comedy crime
+4334,yi yi,drama
+4336,nightwatch,horror thriller
+4337,sand pebbles the,drama romance war
+4338,twelve o clock high,drama war
+4339,von ryan s express,action adventure drama war
+4340,animal the,comedy
+4341,what s the worst that could happen,comedy
+4343,evolution,comedy sci fi
+4344,swordfish,action crime drama
+4345,anniversary party the,drama
+4346,bride of the wind,drama musical romance
+4347,divided we fall,comedy drama
+4349,,comedy war
+4351,point break,action crime thriller
+4353,uncommon valor,action war
+4354,unlawful entry,crime thriller
+4355,youngblood,action drama
+4356,gentlemen prefer blondes,comedy musical romance
+4357,how to marry a millionaire,comedy drama romance
+4359,seven year itch the,comedy
+4360,there s no business like show business,musical
+4361,tootsie,comedy romance
+4362,boys next door the,crime drama
+4366,atlantis the lost empire,adventure animation children fantasy
+4367,lara croft tomb raider,action adventure
+4368,dr dolittle,comedy
+4369,fast and the furious the,action crime thriller
+4370,a i artificial intelligence,adventure drama sci fi
+4371,baby boy,crime drama
+4372,crazy beautiful,drama romance
+4373,pootie tang,comedy
+4378,sexy beast,crime drama
+4380,princess and the warrior the,drama romance
+4381,closet the,comedy
+4383,crimson rivers the,crime drama mystery thriller
+4384,lumumba,drama
+4386,cats dogs,children comedy
+4387,kiss of the dragon,action
+4388,scary movie,comedy
+4389,lost and delirious,drama
+4390,rape me,crime drama thriller
+4391,vertical ray of the sun the,drama
+4392,alice,comedy drama fantasy romance
+4393,another woman,drama
+4394,beach blanket bingo,comedy musical
+4395,big deal on madonna street,comedy crime
+4396,cannonball run the,action comedy
+4397,cannonball run ii,action comedy
+4398,speed zone,action comedy
+4399,diary of a chambermaid,comedy drama
+4401,donovan s reef,action comedy romance
+4404,faust,drama fantasy horror
+4405,last laugh the,drama
+4406,man who shot liberty valance the,crime drama western
+4407,salvador,drama thriller war
+4408,september,drama
+4409,shadows and fog,comedy drama mystery thriller
+4410,something wild,comedy crime drama
+4411,sons of katie elder,western
+4412,thing with two heads the,comedy horror sci fi
+4413,village of the giants,sci fi
+4415,cheech chong s nice dreams,comedy
+4419,all that heaven allows,drama romance
+4420,barefoot contessa the,drama
+4422,cries and whispers,drama
+4423,entertainer the,drama
+4424,garden of the finzi continis the,drama
+4425,howling iii the marsupials,comedy horror
+4426,kiss me deadly,film noir
+4427,lion in winter the,drama
+4428,misfits the,comedy drama romance western
+4429,moby dick,drama
+4432,sweet smell of success,drama film noir
+4433,written on the wind,drama
+4436,obsession,mystery thriller
+4437,suspiria,horror
+4438,fist of fury,action drama romance thriller
+4439,christiane f,drama
+4440,big boss the,action thriller
+4442,last dragon the,action comedy drama
+4443,outland,action sci fi thriller
+4444,way of the dragon the,action crime
+4445,t rex back to the cretaceous,adventure documentary imax
+4446,final fantasy the spirits within,adventure animation fantasy sci fi
+4447,legally blonde,comedy romance
+4448,score the,action drama
+4450,bully,crime drama thriller
+4452,made,comedy
+4454,more,animation drama sci fi imax
+4456,haunted castle,animation horror imax
+4464,accidental tourist the,comedy drama romance
+4465,accused the,drama
+4466,above the law,action crime drama
+4467,adventures of baron munchausen the,adventure comedy fantasy
+4468,apartment zero,drama thriller
+4471,arthur on the rocks,comedy romance
+4472,bad dreams,horror thriller
+4473,,drama war
+4474,beaches,comedy drama musical
+4475,beast of war the,drama war
+4476,big business,comedy
+4477,big top pee wee,adventure children comedy
+4478,biloxi blues,comedy drama
+4479,bird,drama musical
+4480,blob the,horror sci fi
+4482,bright lights big city,drama
+4483,caddyshack ii,comedy
+4484,camille claudel,drama
+4485,casual sex,comedy
+4486,clean and sober,drama
+4487,cocktail,drama romance
+4488,colors,action crime drama
+4489,coming to america,comedy romance
+4491,criminal law,thriller
+4492,critters,comedy sci fi
+4495,crossing delancey,comedy romance
+4496,d o a,film noir mystery thriller
+4497,dead heat,action comedy horror sci fi
+4498,dead pool the,action crime thriller
+4499,dirty rotten scoundrels,comedy
+4500,drowning by numbers,comedy drama
+4501,elvira mistress of the dark,comedy horror
+4502,ernest saves christmas,children comedy
+4503,everybody s all american,romance
+4504,feds,comedy
+4505,for keeps,drama romance
+4506,frantic,crime mystery thriller
+4507,fresh horses,drama
+4508,gorillas in the mist,drama
+4509,great outdoors the,comedy
+4510,heartbreak hotel,comedy
+4511,high spirits,comedy
+4512,hot to trot,comedy
+4514,howling iv the original nightmare,horror
+4515,imagine john lennon,documentary
+4516,johnny be good,comedy
+4517,lady in white,horror mystery thriller
+4518,the lair of the white worm,comedy horror
+4519,land before time the,adventure animation children fantasy
+4520,license to drive,comedy
+4522,masquerade,mystery romance thriller
+4523,milagro beanfield war,comedy drama fantasy
+4524,moon over parador,comedy
+4525,moving,comedy
+4526,my stepmother is an alien,comedy romance sci fi
+4528,off limits,action thriller war
+4529,bagdad cafe,comedy drama
+4530,permanent record,drama
+4531,red heat,action
+4532,return of the living dead part ii,comedy horror
+4533,return of the living dead the,comedy horror sci fi
+4535,man from snowy river the,drama romance western
+4537,running on empty,drama
+4538,salome s last dance,comedy drama
+4540,satisfaction,comedy drama romance
+4541,serpent and the rainbow the,horror
+4543,shoot to kill,action adventure
+4544,short circuit,comedy sci fi
+4545,short circuit,comedy sci fi
+4546,vanishing the,drama thriller
+4547,stormy monday,crime drama
+4548,sunset,action comedy thriller western
+4552,tetsuo the ironman,action horror sci fi thriller
+4553,they live,action sci fi thriller
+4554,to kill a priest,drama
+4555,torch song trilogy,comedy drama romance
+4556,track,drama mystery
+4557,tucker the man and his dream,drama
+4558,twins,comedy
+4559,vice versa,comedy
+4560,watchers,horror sci fi
+4561,waxwork,comedy horror
+4562,without a clue,comedy mystery
+4563,young einstein,comedy
+4564,always,drama fantasy romance
+4565,american ninja,action adventure
+4566,american ninja the confrontation,action adventure
+4567,american ninja blood hunt,action adventure
+4568,best of the best,action
+4570,big picture the,comedy drama
+4571,bill ted s excellent adventure,adventure comedy sci fi
+4572,black rain,action crime drama
+4573,blaze,comedy drama
+4574,blind fury,action thriller
+4575,breaking in,adventure comedy
+4577,casualties of war,drama war
+4578,chances are,comedy romance
+4580,cyborg,action sci fi
+4581,dad,drama
+4584,dream a little dream,comedy drama romance
+4585,dream team the,comedy
+4586,dry white season a,drama thriller
+4587,earth girls are easy,comedy musical sci fi
+4589,eddie and the cruisers,drama musical mystery
+4590,enemies a love story,drama
+4591,erik the viking,adventure comedy fantasy
+4593,family business,comedy
+4594,farewell to the king,action war
+4595,fat man and little boy,drama
+4596,the girl in a swing,drama romance
+4597,gleaming the cube,action drama mystery
+4598,going overboard,comedy
+4599,great balls of fire,drama
+4600,gross anatomy,comedy drama
+4601,happy together,drama romance
+4602,harlem nights,comedy crime romance
+4603,her alibi,comedy romance
+4605,how to get ahead in advertising,comedy fantasy
+4606,immediate family,drama
+4608,innocent man an,crime drama
+4609,jacknife,drama
+4610,january man the,comedy crime mystery thriller
+4612,jesus of montreal,drama
+4613,,action comedy crime
+4614,kickboxer,action
+4615,last exit to brooklyn,drama
+4616,lean on me,drama
+4617,let it ride,comedy
+4618,leviathan,horror sci fi thriller
+4619,little monsters,comedy
+4620,lock up,action adventure crime drama thriller
+4621,look who s talking,comedy romance
+4622,loverboy,comedy
+4623,major league,comedy
+4624,meet the feebles,animation comedy musical
+4625,millennium,drama sci fi thriller
+4627,miss firecracker,comedy
+4628,new york stories,comedy drama
+4629,next of kin,action crime thriller
+4631,old gringo,drama
+4632,package the,action thriller
+4634,penn teller get killed,adventure comedy
+4635,pink cadillac,action comedy drama
+4636,punisher the,action
+4637,red scorpion,action
+4638,jurassic park iii,action adventure sci fi thriller
+4639,america s sweethearts,comedy romance
+4640,brother,action crime thriller
+4641,ghost world,comedy drama
+4642,hedwig and the angry inch,comedy drama musical
+4643,planet of the apes,action adventure drama sci fi
+4644,bread and tulips,comedy drama romance
+4645,cure,crime horror thriller
+4649,wet hot american summer,comedy
+4651,renegades,action
+4652,return of swamp thing the,comedy horror sci fi
+4653,return of the musketeers the,adventure comedy
+4654,road house,action drama
+4655,romero,drama
+4658,santa sangre,drama horror mystery thriller
+4659,scandal,drama
+4660,scenes from the class struggle in beverly hills,comedy
+4661,sea of love,crime drama thriller
+4662,see no evil hear no evil,comedy crime
+4663,she s out of control,comedy
+4664,shirley valentine,comedy romance
+4665,shocker,horror
+4666,skin deep,comedy
+4667,slaves of new york,drama
+4668,some girls,comedy drama romance
+4669,stepfather ii,horror thriller
+4670,stepfather the,horror thriller
+4672,tall guy the,comedy romance
+4673,tango cash,action comedy crime thriller
+4674,tap,drama
+4675,three fugitives,action comedy
+4676,troop beverly hills,comedy
+4677,turner hooch,comedy crime
+4678,uhf,comedy
+4679,uncle buck,comedy
+4680,vampire s kiss,comedy fantasy horror
+4681,war of the roses the,comedy drama
+4682,warlock,action horror
+4683,wizard the,adventure children comedy drama
+4684,worth winning,comedy
+4685,warlock the armageddon,horror
+4686,weekend at bernie s ii,adventure comedy
+4688,black robe,adventure drama
+4690,cotton club the,crime musical
+4692,hotel new hampshire the,drama
+4693,idiot box,crime drama
+4695,who ll stop the rain,crime drama
+4696,zorro the gay blade,comedy
+4699,original sin,drama romance thriller
+4700,princess diaries the,children comedy romance
+4701,rush hour,action comedy
+4703,chocolat,drama
+4704,hatari,adventure comedy
+4705,cage aux folles la,comedy
+4706,cage aux folles ii la,comedy
+4708,marat sade,drama musical
+4709,paint your wagon,comedy musical western
+4710,shootist the,drama western
+4711,theremin an electronic odyssey,documentary
+4712,wild child the,drama
+4713,altered states,drama sci fi
+4714,any which way you can,comedy
+4716,bad timing a sensual obsession,drama
+4718,american pie,comedy
+4719,osmosis jones,action animation comedy crime drama romance thriller
+4720,others the,drama horror mystery thriller
+4721,american outlaws,action comedy western
+4722,all over the guy,comedy
+4723,deep end the,drama
+4725,session,horror thriller
+4727,captain corelli s mandolin,drama romance war
+4728,rat race,comedy
+4729,aberdeen,drama
+4731,innocence,drama
+4732,bubble boy,comedy
+4733,curse of the jade scorpion the,comedy
+4734,jay and silent bob strike back,adventure comedy
+4735,ghosts of mars,horror sci fi thriller
+4736,summer catch,comedy drama romance
+4737,american rhapsody an,drama
+4738,happy accidents,romance sci fi
+4741,together,comedy drama romance
+4743,tortilla soup,comedy romance
+4744,jeepers creepers,horror
+4745,o,drama
+4746,waking up in reno,comedy romance
+4748,ninjas,action children comedy
+4749,ninjas kick back,action children comedy
+4750,ninjas knuckle up,action children
+4752,maniac,horror
+4753,vamp,comedy horror
+4754,wicker man the,drama horror mystery thriller
+4756,musketeer the,action adventure drama romance
+4757,rock star,comedy drama musical
+4759,two can play that game,comedy drama
+4760,bounce behind the velvet rope,documentary
+4761,diamond men,drama
+4765,l i e,drama
+4766,our lady of the assassins,crime drama romance
+4767,abbott and costello meet the mummy,comedy horror
+4770,glass house the,thriller
+4771,hardball,drama
+4772,dinner rush,drama
+4773,haiku tunnel,comedy
+4775,glitter,drama musical romance
+4776,training day,crime drama thriller
+4777,american astronaut the,comedy musical sci fi
+4780,liam,drama
+4783,endurance shackleton s legendary antarctic expedition the,documentary
+4784,french lieutenant s woman the,drama
+4786,legend of hell house the,horror thriller
+4787,little man tate,drama
+4788,moscow does not believe in tears,drama romance
+4789,phantom of the paradise,comedy fantasy horror musical thriller
+4791,valdez is coming,western
+4792,ghosts,horror
+4793,montenegro,comedy drama
+4795,father goose,adventure comedy romance war
+4796,grass is greener the,comedy romance
+4797,hole in the head a,comedy musical
+4798,indiscreet,comedy romance
+4799,it s a mad mad mad mad world,comedy
+4800,king solomon s mines,action adventure drama romance thriller
+4801,little foxes the,drama
+4802,operation petticoat,action comedy romance war
+4803,play misty for me,drama thriller
+4804,pocketful of miracles,comedy drama
+4805,sayonara,drama
+4808,vanishing the,mystery thriller
+4809,silkwood,drama
+4810,i never promised you a rose garden,drama
+4811,quadrophenia,drama musical
+4812,spacecamp,adventure sci fi
+4813,when worlds collide,sci fi
+4814,don t say a word,thriller
+4815,hearts in atlantis,drama
+4816,zoolander,comedy
+4821,joy ride,adventure thriller
+4822,max keeble s big move,children comedy
+4823,serendipity,comedy romance
+4826,big red one the,action adventure drama war
+4829,lady in a cage,drama thriller
+4830,brubaker,crime drama
+4831,can t stop the music,comedy musical
+4833,changeling the,horror mystery thriller
+4834,cheech chong s next movie,comedy
+4835,coal miner s daughter,drama
+4837,cruising,crime drama thriller
+4839,death ship,horror
+4841,divine madness,comedy
+4842,dogs of war the,drama war
+4844,bandits,comedy crime romance
+4845,corky romano,comedy crime
+4846,iron monkey,action comedy
+4847,fat girl,drama
+4848,mulholland drive,crime drama film noir mystery thriller
+4849,my first mister,comedy drama
+4850,spriggan,action animation sci fi
+4852,bones,horror
+4855,dirty harry,action crime thriller
+4857,fiddler on the roof,drama musical
+4862,not without my daughter,drama
+4863,female trouble,comedy crime
+4865,from hell,crime horror mystery thriller
+4866,last castle the,action
+4867,riding in cars with boys,comedy drama
+4868,bangkok dangerous,action crime romance
+4870,dancing at the blue iguana,drama
+4871,focus,drama
+4872,intimacy,drama
+4873,waking life,animation drama fantasy
+4874,k pax,drama fantasy mystery sci fi
+4875,on the line,comedy romance
+4876,thirteen ghosts,horror thriller
+4878,donnie darko,drama mystery sci fi thriller
+4879,high heels and low lifes,action comedy crime drama
+4880,life as a house,drama
+4881,man who wasn t there the,crime drama
+4885,domestic disturbance,thriller
+4886,monsters inc,adventure animation children comedy fantasy
+4887,one the,action sci fi thriller
+4888,tape,drama
+4889,heist,crime drama
+4890,shallow hal,comedy fantasy romance
+4893,when a stranger calls,horror thriller
+4896,harry potter and the sorcerer s stone,adventure children fantasy
+4898,novocaine,comedy crime mystery thriller
+4899,black knight,adventure comedy fantasy
+4900,out cold,comedy
+4901,spy game,action crime drama thriller
+4902,devil s backbone the,drama fantasy horror thriller war
+4903,in the bedroom,drama
+4907,across street,action crime drama
+4909,incredible shrinking woman the,comedy sci fi
+4910,katie tippel,drama
+4911,jabberwocky,adventure comedy fantasy
+4912,funny girl,drama musical romance
+4914,breathless,crime drama romance
+4915,beastmaster the,action adventure fantasy
+4916,midway,drama war
+4917,macarthur,drama
+4918,young lions the,drama war
+4920,now voyager,drama romance
+4921,little women,drama romance
+4927,last wave the,fantasy mystery thriller
+4928,that obscure object of desire,drama
+4929,toy the,comedy
+4930,funeral in berlin,action drama thriller
+4932,dressed to kill,mystery thriller
+4934,exterminator the,action crime thriller war
+4936,fame,drama musical
+4939,final countdown the,action sci fi
+4940,first deadly sin the,thriller
+4941,flash gordon,action adventure sci fi
+4942,angry red planet the,sci fi
+4943,at the earth s core,adventure sci fi
+4945,enforcer the,crime
+4947,gauntlet the,action
+4951,lord of the flies,adventure drama thriller
+4954,ocean s eleven,comedy crime
+4955,sicilian the,crime drama
+4956,stunt man the,action adventure comedy drama romance thriller
+4957,sudden impact,crime thriller
+4958,behind enemy lines,action drama war
+4959,affair of the necklace the,drama
+4961,pornstar the legend of ron jeremy,documentary
+4962,texas rangers,adventure western
+4963,ocean s eleven,crime thriller
+4965,business of strangers the,action drama thriller
+4966,incredible shrinking man the,sci fi thriller
+4967,no man s land,drama war
+4969,and then there were none,crime mystery
+4970,blue angel the,drama
+4971,moscow on the hudson,comedy drama
+4972,owl and the pussycat the,comedy
+4973,amelie,comedy romance
+4974,not another teen movie,comedy
+4975,vanilla sky,mystery romance sci fi thriller
+4976,iris,drama
+4977,kandahar,drama
+4978,lantana,drama mystery thriller
+4979,royal tenenbaums the,comedy drama
+4980,bill ted s bogus journey,adventure comedy fantasy sci fi
+4981,clockwise,comedy
+4982,crawling eye the,horror sci fi
+4984,morgan,comedy drama fantasy
+4985,sheena,action adventure fantasy
+4986,silent rage,action sci fi
+4987,spacehunter adventures in the forbidden zone,action adventure sci fi
+4989,how high,comedy
+4990,jimmy neutron boy genius,adventure animation children comedy
+4991,joe somebody,comedy drama romance
+4992,kate leopold,comedy romance
+4993,lord of the rings the fellowship of the ring the,adventure fantasy
+4994,majestic the,comedy drama romance
+4995,beautiful mind a,drama romance
+4998,defiant ones the,adventure crime drama thriller
+4999,dodsworth,drama romance
+5000,medium cool,drama romance
+5001,sahara,action drama war
+5002,fritz the cat,animation
+5003,nine lives of fritz the cat the,animation
+5004,party the,comedy
+5005,separate tables,drama
+5007,topkapi,adventure comedy thriller
+5008,witness for the prosecution,drama mystery thriller
+5009,ali,drama
+5010,black hawk down,action drama war
+5012,yentl,drama musical romance
+5013,gosford park,comedy drama mystery
+5014,i am sam,drama
+5015,monster s ball,drama romance
+5016,shipping news the,drama
+5017,big heat the,drama film noir
+5019,queen bee,drama
+5021,murder by death,comedy crime mystery thriller
+5022,servant the,drama
+5025,orange county,comedy
+5026,brotherhood of the wolf,action mystery thriller
+5027,another hrs,action comedy crime drama thriller
+5029,china moon,thriller
+5033,russia house the,drama thriller
+5034,truly madly deeply,drama romance
+5035,wuthering heights,drama
+5036,california suite,comedy
+5037,long gray line the,drama
+5038,flight of dragons the,adventure animation children drama fantasy
+5039,dragonslayer,action adventure fantasy
+5040,conan the destroyer,action adventure fantasy
+5042,forbidden zone,musical sci fi
+5043,formula the,thriller
+5046,impostor,action drama sci fi thriller
+5047,kung pow enter the fist,action comedy
+5048,snow dogs,adventure children comedy
+5049,hrs,action comedy crime drama
+5051,italian for beginners,comedy drama romance
+5053,blankman,comedy
+5054,brainstorm,sci fi thriller
+5055,dragon the bruce lee story,action drama
+5056,enigma of kaspar hauser the,crime drama
+5059,little dieter needs to fly,documentary
+5060,m a s h,comedy drama war
+5061,mrs soffel,drama romance
+5062,seconds,mystery sci fi thriller
+5063,one eyed jacks,western
+5064,the count of monte cristo,action adventure drama thriller
+5065,mothman prophecies the,drama fantasy horror mystery thriller
+5066,walk to remember a,drama romance
+5068,beijing bicycle,drama
+5069,escaflowne the movie,action adventure animation drama fantasy
+5072,metropolis,animation sci fi
+5074,storytelling,comedy drama
+5076,adventures of huck finn the,adventure children comedy drama
+5077,cousins,comedy romance
+5078,falling in love,drama romance
+5079,young at heart,drama musical romance
+5081,birthday girl,drama romance
+5085,carmen jones,drama musical
+5086,five heartbeats the,drama musical
+5087,get out your handkerchiefs,comedy drama romance
+5088,going places,comedy crime drama
+5090,hunchback of notre dame the,drama
+5092,big fat liar,children comedy
+5093,collateral damage,action thriller
+5094,rollerball,action sci fi
+5095,scotland pa,comedy crime
+5096,baby s day out,comedy
+5097,bright eyes,comedy drama
+5098,dimples,musical
+5099,heidi,children drama
+5100,man who loved women the,comedy
+5101,richard pryor here and now,comedy documentary
+5102,rookie of the year,comedy fantasy
+5103,sandlot the,children comedy drama
+5105,don t look now,drama horror thriller
+5106,crossroads,comedy musical romance
+5107,hart s war,drama war
+5108,john q,crime drama thriller
+5110,super troopers,comedy crime mystery
+5111,good son the,drama thriller
+5112,last orders,drama
+5113,after the fox,comedy crime
+5114,bad and the beautiful the,drama
+5115,cast a giant shadow,adventure war
+5118,heartbreak kid the,comedy romance
+5119,saturday night and sunday morning,drama
+5120,sleuth,comedy mystery thriller
+5121,stroszek,comedy drama
+5122,summer of,drama
+5123,touch of class a,comedy
+5124,town without pity,drama
+5126,deadly mantis the,horror sci fi
+5127,dragonfly,drama fantasy mystery romance thriller
+5128,queen of the damned,fantasy horror
+5131,how to kill your neighbor s dog,comedy drama
+5134,mean machine,comedy drama
+5135,monsoon wedding,comedy romance
+5136,wendigo,drama horror
+5139,bad news bears the,comedy
+5140,bad news bears go to japan the,comedy
+5141,bad news bears in breaking training the,comedy
+5142,firemen s ball the,comedy drama
+5145,loves of a blonde,comedy drama romance
+5146,vampire hunter d bloodlust,animation fantasy horror sci fi
+5147,wild strawberries,drama
+5151,days and nights,comedy romance
+5152,we were soldiers,action drama war
+5155,big bird cage the,action
+5156,big doll house the,action
+5159,ferngully the last rainforest,animation children comedy musical
+5163,stagefright aquarius,horror thriller
+5166,amazing adventure the,comedy drama romance
+5167,my favorite brunette,comedy mystery
+5168,royal wedding,comedy musical romance
+5169,scarlet street,film noir
+5170,all about the benjamins,action comedy crime
+5171,time machine the,action adventure sci fi
+5172,full frontal,comedy drama romance
+5173,divorcing jack,comedy thriller
+5174,field the,drama
+5175,hidden agenda,drama thriller
+5177,magnificent ambersons the,drama romance
+5179,gloria,drama thriller
+5184,heaven s gate,western
+5185,hero at large,comedy
+5186,honeysuckle rose,drama romance
+5187,hopscotch,comedy
+5188,how to beat the high cost of living,comedy
+5189,humanoids from the deep,horror sci fi
+5190,inside moves,drama
+5193,jazz singer the,musical
+5197,little darlings,drama
+5198,long good friday the,drama thriller
+5199,long riders the,western
+5200,man who saw tomorrow the,documentary
+5202,mon oncle d am rique,drama
+5203,the monster club,comedy horror
+5204,death watch,drama sci fi
+5213,oh god book ii,comedy
+5214,oh god,comedy fantasy
+5218,ice age,adventure animation children comedy
+5219,resident evil,action horror sci fi thriller
+5220,showtime,action comedy
+5221,harrison s flowers,drama
+5222,kissing jessica stein,comedy romance
+5223,pauline paulette,comedy drama
+5224,promises,documentary
+5225,and your mother too,drama romance
+5227,barabbas,adventure drama
+5230,paleface the,comedy western
+5231,road to morocco,comedy
+5233,road to utopia,comedy
+5236,tale of springtime a,drama romance
+5237,taps,drama
+5238,return of the secaucus,drama
+5241,seems like old times,comedy romance
+5244,shogun assassin,action adventure
+5245,simon,comedy sci fi
+5246,smokey and the bandit ii,action comedy
+5247,smokey and the bandit,action comedy
+5248,smokey and the bandit iii,action comedy
+5249,spetters,comedy drama
+5250,stir crazy,comedy
+5254,blade ii,action horror thriller
+5255,sorority boys,comedy
+5258,george washington,drama
+5263,strait jacket,horror thriller
+5264,clockstoppers,action adventure sci fi thriller
+5265,death to smoochy,comedy crime drama
+5266,panic room,thriller
+5267,rookie the,drama
+5269,piano teacher the,drama
+5276,crimes of passion,drama romance thriller
+5279,impromptu,comedy romance
+5282,high crimes,thriller
+5283,national lampoon s van wilder,comedy
+5284,crush,comedy romance
+5287,after dark my sweet,crime drama mystery
+5288,atomic cafe the,documentary war
+5289,body and soul,drama film noir
+5291,rashomon,crime drama mystery
+5292,slap shot,comedy
+5293,changing lanes,drama thriller
+5294,frailty,crime drama thriller
+5296,sweetest thing the,comedy romance
+5297,cat s meow the,drama thriller
+5298,human nature,comedy romance
+5299,my big fat greek wedding,comedy romance
+5300,to yuma,action adventure drama thriller western
+5303,joe versus the volcano,comedy romance
+5304,rome open city,drama war
+5305,return of the killer tomatoes,comedy horror sci fi
+5308,three men and a baby,comedy
+5309,three men and a little lady,comedy romance
+5310,transylvania,comedy horror
+5311,watcher in the woods the,children horror mystery thriller
+5312,murder by numbers,crime thriller
+5313,scorpion king the,action adventure fantasy
+5316,enigma,romance thriller
+5319,nine queens,crime thriller
+5321,triumph of love the,comedy
+5323,jason x,horror sci fi thriller
+5324,life or something like it,comedy romance
+5325,dogtown and z boyz,documentary
+5329,salton sea the,crime drama thriller
+5333,bob le flambeur,crime drama
+5334,cadillac man,comedy crime
+5335,coca cola kid the,comedy romance
+5337,delirious,comedy
+5339,husbands and wives,comedy drama
+5340,joe,drama
+5341,lenny,drama
+5344,thief of hearts,drama thriller
+5346,wild orchid,drama romance
+5347,deuces wild,drama
+5348,hollywood ending,comedy drama
+5349,spider man,action adventure sci fi thriller
+5352,the big sleep,thriller
+5353,butterflies are free,comedy drama
+5357,iron will,adventure
+5358,mountains of the moon,adventure
+5359,rambling rose,drama
+5360,survivors the,comedy
+5361,white fang,adventure
+5363,new guy the,comedy
+5364,unfaithful,drama thriller
+5365,lady and the duke the,drama romance
+5366,whore,drama
+5367,my beautiful laundrette,drama romance
+5368,ballad of a soldier,drama romance war
+5369,big bad mama,action comedy
+5372,calamity jane,musical western
+5373,cranes are flying the,drama romance war
+5377,about a boy,comedy drama romance
+5378,star wars episode ii attack of the clones,action adventure sci fi imax
+5379,believer the,drama
+5380,importance of being earnest the,comedy drama romance
+5382,every which way but loose,comedy
+5383,hound of the baskervilles the,crime horror mystery
+5384,i want to live,crime drama
+5385,last waltz the,documentary
+5387,enough,drama thriller
+5388,insomnia,action crime drama mystery thriller
+5390,cq,drama
+5391,thirteen conversations about one thing,drama
+5392,bus stop,comedy drama romance
+5394,don t bother to knock,drama thriller
+5395,gambler the,drama
+5396,let s make love,comedy musical romance
+5397,monkey business,comedy sci fi
+5398,requiem for a heavyweight,drama
+5399,river of no return,adventure western
+5400,sum of all fears the,drama thriller
+5401,undercover brother,comedy
+5404,charing cross road,drama romance
+5406,desert rats the,drama war
+5409,rapid fire,action
+5410,silent running,drama sci fi
+5414,bad company,action comedy crime
+5415,divine secrets of the ya ya sisterhood,comedy drama
+5417,fast runner the,drama fantasy
+5418,bourne identity the,action mystery thriller
+5419,scooby doo,adventure children comedy fantasy mystery
+5420,windtalkers,action drama war
+5421,dangerous lives of altar boys the,drama
+5422,emperor s new clothes the,comedy
+5423,gangster no,action crime thriller
+5424,harvard man,crime drama romance thriller
+5425,dark blue world,drama war
+5428,cheech chong s the corsican brothers,comedy
+5433,silver bullet,adventure drama horror mystery thriller
+5434,sorry wrong number,drama film noir thriller
+5435,hombre,western
+5437,manhattan project the,comedy sci fi thriller
+5438,men at work,action comedy
+5439,s o b,comedy
+5440,she wore a yellow ribbon,western
+5442,v i warshawski,action comedy crime
+5443,juwanna mann,comedy
+5444,lilo stitch,adventure animation children sci fi
+5445,minority report,action crime mystery sci fi thriller
+5446,rabbit proof fence,adventure drama
+5447,sunshine state,drama
+5448,hey arnold the movie,adventure animation children comedy
+5449,mr deeds,comedy romance
+5450,lovely amazing,comedy drama romance
+5451,pumpkin,comedy drama romance
+5452,look who s talking now,children comedy romance
+5453,lost in yonkers,comedy drama
+5455,object of beauty the,comedy drama
+5458,like mike,children comedy fantasy
+5459,men in black ii,action comedy sci fi
+5460,powerpuff girls the,action animation children comedy
+5461,me without you,comedy drama
+5463,reign of fire,action adventure fantasy
+5464,road to perdition,crime drama
+5465,all about lily chou chou,crime drama thriller
+5468,million miles to earth,sci fi
+5470,the importance of being earnest,comedy romance
+5471,perfect,drama romance
+5472,,children drama musical
+5475,z,drama mystery thriller
+5476,halloween resurrection,horror thriller
+5477,sex and lucia,drama romance
+5478,eight legged freaks,action comedy horror sci fi
+5479,the widowmaker,action adventure drama thriller
+5480,stuart little,children comedy
+5481,austin powers in goldmember,comedy
+5482,country bears the,children comedy
+5483,kid stays in the picture the,documentary
+5485,tadpole,comedy drama romance
+5489,nosferatu the vampyre,horror
+5490,the big bus,action comedy
+5491,eddy duchin story the,drama musical romance
+5493,in like flint,action adventure comedy
+5496,ossessione,drama
+5498,red beard,drama
+5499,robin and marian,adventure drama romance
+5500,top secret,comedy
+5501,master of disguise the,comedy mystery
+5502,signs,horror sci fi thriller
+5504,spy kids the island of lost dreams,adventure children
+5505,good girl the,comedy drama
+5506,blood work,crime drama mystery thriller
+5507,xxx,action crime thriller
+5508,hour party people,comedy drama musical
+5515,songs from the second floor,drama
+5516,read my lips,crime drama thriller
+5521,principal the,action crime drama
+5522,rollerball,action drama sci fi
+5523,adventures of pluto nash the,action adventure comedy sci fi
+5524,blue crush,adventure drama romance
+5525,mostly martha,comedy drama romance
+5526,isle the,drama
+5527,possession,drama romance
+5528,one hour photo,drama thriller
+5530,simone,comedy drama fantasy sci fi
+5531,undisputed,drama
+5532,amy s o,comedy romance
+5534,hush,drama
+5537,satin rouge,drama musical
+5538,care bears movie the,animation children fantasy
+5539,care bears movie ii a new generation,animation children
+5540,clash of the titans,action adventure fantasy romance
+5541,hot shots,action comedy romance war
+5542,nightmare city,action horror
+5544,time after time,sci fi thriller
+5546,,horror
+5548,down and out in beverly hills,comedy
+5550,love me tender,musical western
+5551,return of the vampire the,horror
+5553,stakeout,comedy crime romance thriller
+5554,wild in the country,drama
+5555,wolfen,horror
+5556,feardotcom,crime horror thriller
+5559,mad love,drama
+5560,nous la libert,comedy musical
+5561,true colors,drama
+5563,city by the sea,crime drama
+5564,swimfan,thriller
+5568,johnny dangerously,comedy
+5569,last house on the left the,crime horror thriller
+5570,thesis,drama horror thriller
+5572,barbershop,comedy
+5574,transporter the,action crime
+5577,igby goes down,comedy drama
+5581,betsy s wedding,comedy
+5582,captain ron,adventure comedy
+5584,ernest goes to jail,comedy
+5585,ernest scared stupid,comedy
+5587,hills have eyes part ii the,horror
+5588,hills have eyes the,horror
+5591,monkey trouble,children comedy
+5596,spaced invaders,adventure comedy sci fi
+5600,wanderers the,drama
+5601,yearling the,children drama
+5602,ladykillers the,comedy crime
+5603,lavender hill mob the,comedy crime
+5604,man in the white suit the,comedy sci fi
+5608,das experiment,drama thriller
+5609,ballistic ecks vs sever,action thriller
+5610,banger sisters the,comedy drama
+5611,four feathers the,adventure war
+5612,trapped,action thriller
+5613,women,comedy crime musical mystery
+5617,secretary,comedy drama romance
+5618,spirited away,adventure animation fantasy
+5619,trials of henry kissinger the,documentary
+5620,sweet home alabama,comedy romance
+5621,tuxedo the,action comedy
+5625,moonlight mile,drama romance
+5628,wasabi,action comedy crime drama thriller
+5629,jonah a veggietales movie,animation children musical
+5630,red dragon,crime mystery thriller
+5632,bloody sunday,drama
+5633,heaven,drama
+5634,pipe dream,drama
+5636,welcome to collinwood,comedy crime
+5637,flirting,drama
+5638,godzilla vs mothra,action adventure fantasy sci fi
+5640,godzilla king of the monsters,horror sci fi
+5642,onion field the,drama
+5643,powaqqatsi,documentary
+5644,pride of the yankees the,drama
+5645,texasville,drama
+5646,valmont,drama romance
+5647,ernest goes to africa,comedy
+5648,ernest in the army,comedy
+5649,horror of dracula,horror
+5650,strange brew,comedy
+5651,incredible mr limpet the,animation comedy war
+5653,django,western
+5657,flashback,action adventure comedy crime drama
+5660,seance on a wet afternoon,crime drama thriller
+5663,below,horror
+5664,brown sugar,romance
+5665,knockaround guys,action comedy crime
+5666,rules of attraction the,comedy drama romance thriller
+5667,tuck everlasting,drama fantasy
+5668,white oleander,drama
+5669,bowling for columbine,documentary
+5670,comedian,comedy documentary
+5672,pokemon ever,adventure animation children fantasy
+5673,punch drunk love,comedy drama romance
+5675,swept away,comedy romance
+5678,formula,action comedy crime thriller
+5679,ring the,horror mystery thriller
+5680,auto focus,crime drama
+5681,fidel,documentary
+5682,grey zone the,drama
+5684,naqoyqatsi,documentary
+5685,real women have curves,comedy drama
+5686,russian ark,drama fantasy war
+5688,tully,drama
+5689,billy bathgate,crime drama
+5690,grave of the fireflies,animation drama war
+5692,mechanic the,action thriller
+5693,saturday night fever,comedy drama romance
+5694,staying alive,comedy drama musical
+5696,urban cowboy,drama
+5705,xanadu,fantasy musical romance
+5707,absence of malice,drama romance
+5708,all night long,comedy drama
+5712,blow out,mystery thriller
+5718,carbon copy,comedy
+5720,friend is a treasure a,action adventure comedy
+5723,continental divide,comedy romance
+5725,man of iron,drama romance
+5728,death hunt,action adventure crime thriller
+5729,endless love,drama romance
+5732,eye of the needle,thriller
+5733,eyewitness,thriller
+5734,faces of death,documentary horror
+5736,faces of death,documentary horror
+5741,woman next door the,drama romance
+5743,fort apache the bronx,action drama
+5745,four seasons the,comedy drama
+5747,gallipoli,drama war
+5752,gregory s girl,comedy romance
+5761,legend of the lone ranger the,western
+5764,looker,drama horror sci fi thriller
+5765,looney looney looney bugs bunny movie the,animation children comedy
+5767,teddy bear,comedy crime
+5768,modern problems,comedy fantasy
+5769,modern romance,comedy romance
+5770,ms,crime drama
+5771,my bloody valentine,drama horror thriller
+5772,my dinner with andr,drama
+5777,pennies from heaven,musical romance
+5779,piranha ii the spawning,horror sci fi
+5780,polyester,comedy
+5781,private lessons,comedy
+5782,professional the,action drama thriller
+5783,derrida,documentary
+5784,ghost ship,horror
+5785,jackass the movie,action comedy documentary
+5788,all or nothing,drama
+5791,frida,drama romance
+5792,roger dodger,comedy drama
+5794,good work,drama
+5796,casino royale,action adventure comedy
+5797,company of wolves the,fantasy horror
+5799,exodus,drama romance war
+5801,russians are coming the russians are coming the,comedy war
+5802,world of henry orient the,comedy
+5803,i spy,action adventure comedy crime
+5804,santa clause the,children comedy fantasy romance
+5806,blackboards,drama
+5808,weight of water the,thriller
+5809,femme fatale,crime thriller
+5810,mile,drama
+5812,far from heaven,drama romance
+5813,god is great i m not,comedy romance
+5816,harry potter and the chamber of secrets,adventure fantasy
+5817,ararat,drama war
+5818,crime of father amaro the,drama romance
+5819,interview with the assassin,drama
+5820,standing in the shadows of motown,documentary musical
+5821,way home the,drama
+5824,liberty stands still,action drama thriller
+5825,life and death of colonel blimp the,drama romance war
+5826,rio grande,romance western
+5829,men with brooms,comedy drama romance
+5832,left behind ii tribulation force,drama
+5833,dog soldiers,action horror
+5834,fingers,drama
+5836,houseboat,comedy romance
+5839,my father s glory,adventure drama
+5840,my mother s castle,comedy drama
+5841,return to the blue lagoon,adventure romance
+5842,too beautiful for you,comedy drama romance
+5843,toy soldiers,action drama
+5846,raggedy man,drama
+5847,ragtime,drama
+5851,rollover,drama
+5853,scanners,horror sci fi thriller
+5854,sharky s machine,crime drama romance
+5855,shock treatment,comedy musical sci fi
+5859,southern comfort,drama thriller war
+5862,student bodies,comedy horror
+5863,take this job and shove it,comedy
+5867,thief,crime drama thriller
+5869,true confessions,crime drama
+5872,die another day,action adventure thriller
+5873,the emperor s club,drama
+5874,friday after next,comedy
+5875,personal velocity,drama
+5876,quiet american the,drama thriller war
+5878,talk to her,drama romance
+5879,eight crazy nights,animation comedy musical
+5880,extreme ops,action adventure crime thriller
+5881,solaris,drama romance sci fi
+5882,treasure planet,adventure animation children sci fi imax
+5883,they,horror thriller
+5885,what to do in case of fire,comedy drama
+5888,brother,crime drama
+5890,elling,comedy drama
+5891,i spit on your grave,horror thriller
+5893,last seduction the,crime drama thriller
+5898,sword and the sorcerer the,action adventure fantasy
+5899,zulu,action drama war
+5900,analyze that,comedy crime
+5902,adaptation,comedy drama romance
+5903,equilibrium,action sci fi thriller
+5907,medea,drama
+5914,vernon florida,documentary
+5915,victory,action drama war
+5920,ace of aces,adventure comedy
+5928,border the,drama
+5930,brimstone and treacle,drama thriller
+5931,britannia hospital,comedy drama
+5932,burden of dreams,documentary
+5936,come back to the five and dime jimmy dean jimmy dean,drama
+5937,danton,drama
+5938,deathtrap,comedy crime mystery thriller
+5940,eating raoul,comedy
+5941,drumline,comedy drama musical romance
+5942,hot chick the,comedy
+5943,maid in manhattan,comedy romance
+5944,star trek nemesis,action drama sci fi thriller
+5945,about schmidt,comedy drama
+5947,evelyn,drama
+5948,guys the,drama
+5949,intact,thriller
+5951,morvern callar,drama
+5952,lord of the rings the two towers the,adventure fantasy
+5954,hour,crime drama
+5955,antwone fisher,drama
+5956,gangs of new york,crime drama
+5957,two weeks notice,comedy romance
+5959,narc,crime drama thriller
+5960,bad influence,drama thriller
+5961,blue steel,action thriller
+5962,body of evidence,drama thriller
+5963,children s hour the,drama
+5965,duellists the,action war
+5966,kiss before dying a,film noir mystery
+5968,miami blues,comedy crime drama
+5969,my girl,comedy drama romance
+5970,my girl,comedy drama romance
+5971,my neighbor totoro,animation children drama fantasy
+5974,thief of bagdad the,adventure fantasy
+5975,war and peace,drama romance war
+5977,where s poppa,comedy
+5979,attack of the crab monsters,horror sci fi
+5980,black christmas,horror mystery thriller
+5981,day of the triffids the,horror sci fi
+5983,invaders from mars,sci fi
+5984,story of o the,drama romance
+5985,asoka,action drama romance
+5986,fat city,drama
+5987,love honour and obey,comedy crime drama
+5989,catch me if you can,crime drama
+5990,pinocchio,children comedy fantasy
+5991,chicago,comedy crime drama musical
+5992,hours the,drama romance
+5993,max,drama
+5994,nicholas nickleby,drama romance
+5995,pianist the,drama war
+5998,doppelganger,horror thriller
+5999,heavy metal,action adventure animation fantasy sci fi
+6001,king of comedy the,comedy drama
+6002,love liza,drama
+6003,confessions of a dangerous mind,comedy crime drama thriller
+6005,blue collar comedy tour the movie,comedy documentary
+6006,just married,comedy romance
+6007,p s your cat is dead,comedy
+6008,son the,drama
+6012,guy thing a,comedy romance
+6013,kangaroo jack,action comedy
+6014,national security,action comedy
+6016,city of god,action adventure crime drama thriller
+6017,divine intervention,comedy drama romance war
+6021,american friend the,crime drama mystery thriller
+6022,american me,drama
+6023,band of outsiders,comedy crime drama romance
+6025,the movie,comedy
+6030,girls girls girls,comedy musical
+6031,imitation of life,drama romance
+6032,little romance a,comedy romance
+6035,p p le moko,crime drama romance
+6037,summer lovers,comedy drama romance
+6039,woman in red the,comedy romance
+6040,darkness falls,horror thriller
+6041,amen,drama
+6045,bullet,action crime drama
+6047,dead reckoning,drama film noir mystery
+6051,harder they come the,action crime drama
+6057,biker boyz,action crime drama
+6058,final destination,horror thriller
+6059,recruit the,action thriller
+6060,guru the,comedy romance
+6062,lost in la mancha,documentary
+6063,may,drama horror
+6064,harder they fall the,drama film noir
+6067,ordinary decent criminal,comedy crime
+6071,two way stretch,comedy crime
+6073,victim,crime drama
+6078,firefox,action sci fi thriller
+6081,never play clever again,comedy crime
+6082,grey fox the,romance western
+6093,last unicorn the,animation children fantasy
+6096,making love,drama
+6099,megaforce,action sci fi
+6100,midsummer night s sex comedy a,comedy romance
+6101,missing,drama mystery thriller
+6102,missionary the,comedy
+6104,monty python live at the hollywood bowl,comedy
+6105,moonlighting,drama
+6107,night of the shooting stars,drama war
+6108,that night in varennes,drama
+6109,one from the heart,drama romance
+6115,personal best,drama
+6116,pirate movie the,adventure comedy musical
+6117,privates on parade,comedy drama war
+6119,santa claus is a stinker,comedy
+6122,richard pryor live on the sunset strip,comedy documentary
+6123,sunless,documentary
+6125,secret policeman s other ball the,comedy documentary musical
+6127,shoot the moon,drama
+6134,starstruck,comedy musical
+6135,still of the night,mystery thriller
+6138,tag the assassination game,action thriller
+6139,tempest,comedy drama
+6141,they call me bruce,comedy
+6144,traviata la,drama musical
+6153,zapped,comedy sci fi
+6155,how to lose a guy in days,comedy romance
+6156,shanghai knights,action adventure comedy
+6157,daredevil,action crime
+6158,jungle book the,animation children
+6159,all the real girls,drama romance
+6160,amandla a revolution in four part harmony,documentary musical
+6163,he loves me he loves me not,romance thriller
+6166,dennis the menace,comedy
+6167,stand in,comedy
+6168,to midnight,action adventure thriller
+6170,black stallion the,adventure children drama
+6173,into the west,adventure children
+6176,mr majestyk,action drama
+6177,murphy s law,action
+6178,patch of blue a,drama romance
+6180,q a,crime drama
+6181,red badge of courage the,drama war
+6182,thrill of it all the,comedy
+6183,pillow talk,comedy musical romance
+6184,man who fell to earth the,drama sci fi
+6185,dark blue,action crime drama thriller
+6186,gods and generals,action drama war
+6187,life of david gale the,crime drama thriller
+6188,old school,comedy
+6190,lawless heart the,comedy drama
+6191,navigators the,comedy drama
+6193,poolhall junkies,comedy drama thriller
+6196,cradle the grave,action crime drama thriller
+6197,spider,drama mystery
+6198,american heart,crime drama
+6200,insignificance,comedy drama
+6201,lady jane,drama romance
+6202,late marriage,comedy drama romance
+6204,meteor man the,comedy
+6210,volcano high,action comedy
+6212,bringing down the house,comedy
+6213,tears of the sun,action drama thriller
+6214,irreversible,crime drama mystery thriller
+6215,laurel canyon,drama
+6216,nowhere in africa,drama
+6218,bend it like beckham,comedy drama romance
+6219,hunted the,action drama thriller
+6220,willard,drama horror thriller
+6222,prozac nation,drama
+6223,spun,comedy crime drama
+6225,king of kings,drama
+6226,lost honor of katharina blum the,drama
+6228,talk of the town the,comedy romance thriller
+6230,bang the drum slowly,drama
+6231,benny goodman story the,drama musical
+6233,born yesterday,comedy romance
+6234,equus,drama mystery
+6235,europa europa,drama war
+6236,fear strikes out,drama
+6238,green card,comedy drama romance
+6239,journey to the center of the earth,adventure children sci fi
+6241,pauline at the beach,comedy drama romance
+6242,ringu,horror mystery thriller
+6243,ringu,horror mystery
+6244,salaam bombay,drama
+6245,sweet charity,comedy drama musical romance
+6247,women in love,drama romance
+6250,dreamcatcher,drama horror sci fi thriller
+6251,piglet s big movie,animation children
+6252,view from the top,comedy romance
+6254,awful truth the,comedy romance
+6256,house with laughing windows the,horror mystery thriller
+6257,i am curious,documentary drama
+6260,robe the,drama
+6261,wind,action romance
+6263,basic,drama thriller war
+6264,core the,action drama sci fi thriller
+6265,head of state,comedy
+6266,what a girl wants,comedy drama romance
+6267,assassination tango,drama thriller
+6269,stevie,documentary
+6270,akira kurosawa s dreams,drama fantasy
+6271,day for night,comedy drama romance
+6273,in a lonely place,drama film noir mystery romance
+6278,fellini i m a born liar,documentary
+6279,good thief the,crime drama
+6280,man apart a,action crime drama thriller
+6281,phone booth,drama thriller
+6283,cowboy bebop the movie,action animation sci fi thriller
+6285,levity,drama
+6286,man without a past the,comedy crime drama
+6287,anger management,comedy
+6288,better luck tomorrow,crime drama
+6290,house of corpses,horror
+6291,lilya,crime drama
+6293,xx xy,drama romance
+6294,bulletproof monk,action adventure sci fi
+6295,chasing papi,comedy
+6296,mighty wind a,comedy musical
+6297,holes,adventure children comedy mystery
+6298,malibu s most wanted,comedy crime
+6299,winged migration,documentary
+6300,flickering lights,action comedy crime
+6301,straw dogs,drama thriller
+6302,beginning of the end,sci fi
+6303,andromeda strain the,mystery sci fi
+6304,brainscan,comedy horror sci fi thriller
+6305,fahrenheit,drama sci fi
+6308,legal eagles,comedy crime romance
+6310,memories of me,comedy drama
+6311,other side of heaven the,adventure drama
+6312,private function a,comedy
+6313,sibling rivalry,comedy
+6314,undercover blues,comedy crime
+6315,wildcats,comedy
+6316,wiz the,adventure children comedy fantasy musical
+6320,scenes from a mall,comedy
+6322,confidence,crime thriller
+6323,identity,crime horror mystery thriller
+6325,real cancun the,documentary
+6326,city of ghosts,crime drama thriller
+6327,decade under the influence a,documentary
+6329,manic,drama
+6330,people i know,crime drama
+6331,spellbound,documentary
+6332,lizzie mcguire movie the,children comedy romance
+6333,x men united,action adventure sci fi thriller
+6335,dancer upstairs the,crime drama thriller
+6337,owning mahowny,crime drama thriller
+6338,daddy day care,children comedy
+6339,man on the train,comedy drama
+6340,only the strong survive a celebration of soul,documentary musical
+6344,reykjavik,comedy drama romance
+6345,chorus line a,comedy drama musical
+6347,beat street,drama musical
+6348,breakin electric boogaloo,musical
+6349,breakin,drama musical
+6350,laputa castle in the sky,action adventure animation children fantasy sci fi
+6355,girls les,musical
+6356,gunfight at the o k corral,western
+6357,high society,comedy musical romance
+6358,kiss me kate,comedy musical romance
+6365,matrix reloaded the,action adventure sci fi thriller imax
+6366,dracula pages from a virgin s diary,horror mystery
+6367,down with love,comedy romance
+6370,spanish apartment the,comedy drama romance
+6371,pok mon heroes,animation children
+6373,bruce almighty,comedy drama fantasy romance
+6374,in laws the,comedy
+6375,gigantic,documentary
+6377,finding nemo,adventure animation children comedy
+6378,italian job the,action crime
+6379,wrong turn,horror thriller
+6380,capturing the friedmans,documentary
+6382,together,drama
+6383,fast furious,action crime thriller
+6385,whale rider,drama
+6387,once a thief,action comedy crime thriller
+6388,regeneration,drama war
+6390,silk stockings,musical
+6391,snowball express,children comedy
+6392,man called horse a,adventure drama western
+6401,rio lobo,adventure romance war western
+6407,walk don t run,comedy romance
+6409,bend of the river,western
+6410,car wash,comedy
+6411,come september,comedy
+6412,destry rides again,comedy western
+6413,electric horseman the,comedy western
+6416,king rat,drama war
+6417,live wire,action
+6422,shenandoah,drama war western
+6423,straight talk,comedy
+6424,oscar,comedy crime mystery romance
+6425,man the,comedy
+6426,far country the,western
+6427,railway children the,children drama
+6428,two mules for sister sara,comedy war western
+6429,winchester,western
+6431,battle cry,drama war
+6433,man with the movie camera the,documentary
+6434,objective burma,war
+6436,this boy s life,drama
+6437,rue madeleine,thriller war
+6439,attack,drama war
+6440,barton fink,drama thriller
+6441,battle of britain,war
+6442,belle poque,comedy romance
+6443,big trail the,adventure romance western
+6446,comancheros the,action adventure drama romance
+6447,duel at diablo,war
+6448,flight of the phoenix the,action adventure drama
+6449,from the terrace,drama
+6450,heaven knows mr allison,drama war
+6451,hot rock the,comedy crime
+6452,long hot summer the,drama
+6453,man of aran,documentary
+6454,music box,drama
+6455,north to alaska,comedy western
+6457,sink the bismark,action drama war
+6458,blue max the,adventure drama war
+6459,desert fox the,drama war
+6460,trial the,drama
+6461,unforgiven the,drama western
+6464,good burger,children comedy
+6466,mississippi masala,drama romance
+6467,quai des orf vres,crime drama
+6471,defense of the realm,thriller
+6473,half moon street,drama thriller
+6476,shattered,mystery thriller
+6477,song of bernadette the,drama
+6478,life and times of judge roy bean the,comedy western
+6480,thoroughly modern millie,comedy musical
+6482,dumb and dumberer when harry met lloyd,comedy
+6483,from justin to kelly,musical romance
+6484,hollywood homicide,action crime drama
+6485,rugrats go wild,adventure animation children comedy
+6486,hard word the,comedy crime drama thriller
+6488,jet lag,comedy romance
+6493,alex and emma,comedy drama romance
+6495,experiment in terror,crime thriller
+6497,is paris burning,drama war
+6499,orphans of the storm,drama
+6500,satanic rites of dracula the,horror
+6502,days later,action horror sci fi
+6503,charlie s angels full throttle,action adventure comedy crime thriller
+6506,fulltime killer,action thriller
+6508,bank the,thriller
+6509,ali fear eats the soul,drama romance
+6516,anastasia,drama
+6517,babe the,drama
+6518,flight of the intruder,action war
+6519,fun with dick and jane,comedy
+6520,knights of the round table,adventure drama
+6521,main event the,comedy
+6523,mr baseball,comedy romance
+6524,never on sunday,comedy drama
+6527,scaramouche,adventure romance
+6528,start the revolution without me,comedy
+6530,tenant the,drama horror mystery thriller
+6531,hour of the pig the,crime drama mystery
+6532,up the sandbox,comedy
+6533,what s up doc,comedy
+6534,hulk,action adventure sci fi
+6535,legally blonde red white blonde,comedy
+6536,sinbad legend of the seven seas,adventure animation children fantasy
+6537,terminator rise of the machines,action adventure sci fi
+6538,swimming pool,drama mystery thriller
+6539,pirates of the caribbean the curse of the black pearl,action adventure comedy fantasy
+6541,league of extraordinary gentlemen the,action fantasy sci fi
+6545,i capture the castle,drama romance
+6547,northfork,drama fantasy
+6548,bad boys ii,action comedy crime thriller
+6549,how to deal,comedy drama romance
+6550,johnny english,action comedy thriller
+6552,dirty pretty things,crime drama thriller
+6554,garage days,comedy musical
+6558,curly sue,comedy drama
+6559,little giants,children comedy
+6560,loose cannons,action comedy
+6561,mouse that roared the,comedy war
+6562,spencer s mountain,comedy drama
+6564,lara croft tomb raider the cradle of life,action adventure comedy romance thriller
+6565,seabiscuit,drama
+6566,spy kids game over,action adventure children
+6567,buffalo soldiers,comedy crime drama war
+6568,camp,comedy musical
+6569,hotel,comedy
+6572,scorched,comedy crime
+6573,avanti,comedy drama
+6574,eve of destruction,action sci fi thriller
+6575,gator,action drama
+6579,one two three,comedy
+6581,private life of sherlock holmes the,comedy drama mystery
+6582,remo williams the adventure begins,action comedy crime thriller
+6583,blood of heroes the,action sci fi
+6584,what s up tiger lily,adventure comedy crime thriller
+6586,american wedding,comedy
+6587,gigli,comedy crime romance
+6588,and now ladies and gentlemen,romance thriller
+6591,magdalene sisters the,drama
+6592,secret lives of dentists the,drama
+6593,freaky friday,children comedy fantasy
+6595,s w a t,action thriller
+6596,divorce le,comedy drama romance
+6597,princess blade the,action sci fi
+6598,step into liquid,documentary
+6599,accattone,drama
+6602,brain damage,comedy horror
+6603,double life a,crime drama film noir
+6605,man in the glass booth the,drama
+6609,gospel according to st matthew the,drama
+6611,umberto d,drama
+6613,day of the dolphin the,drama
+6614,i love you to death,comedy crime
+6615,freddy vs jason,action horror thriller
+6616,grind,action comedy
+6617,open range,western
+6618,shaolin soccer,action comedy
+6619,uptown girls,comedy
+6620,american splendor,comedy drama
+6622,carnages,drama
+6623,passionada,comedy romance
+6624,agent cody banks,action adventure children fantasy
+6626,cemetery club the,comedy drama romance
+6628,hot dog the movie,comedy
+6629,house of wax,crime horror mystery thriller
+6630,inn of the sixth happiness the,adventure drama
+6634,rowing with the wind,drama romance
+6635,rachel papers the,drama romance
+6636,sure thing the,comedy romance
+6637,thrashin,action drama
+6638,valley girl,comedy romance
+6639,wait until dark,drama thriller
+6642,showdown in little tokyo,action crime
+6643,tokyo story,drama
+6645,thx,action adventure drama sci fi
+6647,business of fancydancing the,drama
+6650,kind hearts and coronets,comedy drama
+6651,ash wednesday,crime drama
+6652,joe kidd,western
+6657,beast from fathoms the,sci fi
+6658,,comedy romance
+6659,tremors,comedy horror sci fi
+6660,red shoes the,drama fantasy musical romance
+6662,pink panther the,comedy crime
+6663,pink panther strikes again the,comedy crime
+6664,commando,action adventure
+6665,dracula,horror romance
+6666,discreet charm of the bourgeoisie the,comedy drama fantasy
+6667,waco the rules of engagement,documentary
+6668,road home the,drama romance
+6669,ikiru,drama
+6671,angel at my table an,drama
+6672,war photographer,documentary war
+6678,handmaid s tale the,drama sci fi
+6679,revolution os,documentary
+6682,earth,drama war
+6683,fire,drama
+6684,death in venice,drama romance
+6685,marci x,comedy musical
+6686,medallion the,action comedy crime fantasy
+6687,my boss s daughter,comedy romance
+6690,don t tempt me,comedy fantasy mystery
+6695,jeepers creepers,horror thriller
+6696,bollywood hollywood,comedy drama musical romance
+6699,once upon a time in the midlands,drama
+6700,other side of the bed the,comedy drama musical romance
+6701,zero day,drama
+6703,order the,horror mystery thriller
+6707,cabin fever,horror thriller
+6708,matchstick men,comedy crime drama
+6709,once upon a time in mexico,action adventure crime thriller
+6710,dummy,comedy drama romance
+6711,lost in translation,comedy drama romance
+6713,millennium actress,animation drama romance
+6714,so close,action comedy romance thriller
+6720,kuffs,action comedy crime
+6721,once upon a time in china,action adventure drama
+6722,once upon a time in china ii,action romance
+6723,once upon a time in china iii,action
+6724,paper moon,comedy crime drama
+6725,sgt pepper s lonely hearts club band,adventure musical
+6728,ugly american the,drama
+6729,bostonians the,drama romance
+6731,day of the dead,horror sci fi thriller
+6732,hello dolly,comedy musical romance
+6734,memoirs of an invisible man,comedy romance sci fi thriller
+6735,rose the,drama
+6736,see no evil,crime drama horror thriller
+6740,bingo,adventure comedy
+6743,jungle book,adventure fantasy
+6744,once bitten,comedy horror
+6746,squirm,horror romance
+6747,adventures of huckleberry finn the,adventure children
+6748,brood the,horror
+6749,prince and the pauper the,adventure drama
+6750,anything else,comedy drama romance
+6751,cold creek manor,drama thriller
+6753,secondhand lions,children comedy drama
+6754,underworld,action fantasy horror
+6755,bubba ho tep,comedy horror
+6759,close your eyes,crime thriller
+6760,in this world,adventure drama
+6763,duplex,comedy crime
+6764,rundown the,action adventure comedy
+6765,under the tuscan sun,comedy drama romance
+6768,luther,drama
+6772,to be and to have,documentary
+6773,triplets of belleville the,animation comedy fantasy
+6774,videodrome,fantasy horror sci fi thriller
+6776,lagaan once upon a time in india,comedy drama musical romance
+6777,judgment at nuremberg,drama
+6778,journey of hope,drama
+6779,same time next year,comedy drama romance
+6780,brief history of time a,documentary
+6783,rules of the game the,comedy drama
+6785,seven brides for seven brothers,comedy musical romance western
+6786,kiss of the spider woman,drama
+6787,all the president s men,drama thriller
+6790,avalon,drama fantasy sci fi
+6791,babette s feast,drama
+6793,beethoven,children comedy drama
+6794,beethoven s,children comedy
+6795,black moon rising,action crime sci fi thriller
+6796,boyz n the hood,crime drama
+6797,bugsy,crime drama
+6798,bugsy malone,children comedy crime musical
+6800,cobra,action crime
+6802,consenting adults,thriller
+6803,phenomena,horror mystery thriller
+6805,crying freeman,action crime thriller
+6806,time and tide,action crime thriller
+6807,monty python s the meaning of life,comedy
+6808,where eagles dare,action adventure war
+6809,tightrope,thriller
+6810,sleeping with the enemy,drama thriller
+6811,pcu,comedy
+6812,rookie the,action comedy thriller
+6815,into the night,action comedy drama thriller
+6816,three o clock high,comedy
+6817,white hunter black heart,adventure drama
+6818,come and see,drama war
+6819,rage in harlem a,crime
+6820,ginger snaps,drama horror thriller
+6821,more american graffiti,comedy
+6823,under suspicion,crime drama thriller
+6827,it s pat,comedy
+6828,sunday in the country a,drama
+6830,sudden fear,film noir horror thriller
+6832,regarding henry,drama
+6837,love affair,comedy drama romance
+6840,hospital the,comedy drama
+6842,images,drama fantasy horror
+6843,eureka,drama
+6850,leap of faith,comedy drama
+6852,in cold blood,crime drama
+6854,bedford incident the,drama thriller war
+6856,yankee doodle dandy,drama musical
+6857,ninja scroll,action adventure animation fantasy
+6858,knife in the water,drama
+6859,devil and daniel webster the,drama fantasy
+6862,out of time,crime drama thriller
+6863,school of rock,comedy musical
+6864,concert for george the,documentary musical
+6867,station agent the,comedy drama
